@@ -1,0 +1,269 @@
+{
+  "comment": "Street-level locations verified against official sites, Instagram bios, and press. Used to replace CABA-centroid jitter that stacked dozens of pins on Microcentro.",
+  "places": {
+    "3": {
+      "address": "Pierina Dealessi 1350, Puerto Madero",
+      "neighborhood": "Puerto Madero",
+      "province": "CABA",
+      "query": "Pierina Dealessi 1350, Buenos Aires, Argentina",
+      "lat": -34.614238,
+      "lng": -58.363376,
+      "display": "1350, Pierina Dealessi, Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1107CHG, Argentina"
+    },
+    "6": {
+      "address": "Soldado de la Independencia 1177, Las Cañitas",
+      "neighborhood": "Las Cañitas",
+      "province": "CABA",
+      "query": "Soldado de la Independencia 1177, Buenos Aires, Argentina",
+      "lat": -34.564619,
+      "lng": -58.439214,
+      "display": "1177, Soldado de la Independencia, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426AAL, Argentina"
+    },
+    "7": {
+      "address": "Suipacha 637, San Nicolás",
+      "neighborhood": "San Nicolás",
+      "province": "CABA",
+      "query": "Suipacha 637, Buenos Aires, Argentina",
+      "lat": -34.60084,
+      "lng": -58.379578,
+      "display": "637, Suipacha, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAH, Argentina"
+    },
+    "9": {
+      "address": "Dorrego 2591, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Dorrego 2591, Palermo, Buenos Aires, Argentina",
+      "lat": -34.574594,
+      "lng": -58.434494,
+      "display": "2591, Avenida Dorrego, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426AAH, Argentina"
+    },
+    "10": {
+      "address": "Aguirre 1015, Villa Crespo",
+      "neighborhood": "Villa Crespo",
+      "province": "CABA",
+      "query": "Aguirre 1015, Villa Crespo, Buenos Aires, Argentina",
+      "lat": -34.600943,
+      "lng": -58.432588,
+      "display": "Aguirre, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414AJA, Argentina"
+    },
+    "15": {
+      "address": "Pasaje Comercio 467, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Pasaje Comercio 467, Córdoba, Argentina",
+      "lat": -31.408017,
+      "lng": -64.190565,
+      "display": "467, Pasaje Comercio, Alberdi, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+    },
+    "21": {
+      "address": "Salvador Debenedetti 635, La Lucila",
+      "neighborhood": "La Lucila",
+      "province": "Buenos Aires",
+      "query": "Salvador Debenedetti 635, La Lucila, Buenos Aires, Argentina",
+      "lat": -34.497721,
+      "lng": -58.488799,
+      "display": "635, Salvador Debenedetti, La Lucila, Partido de Vicente López, Buenos Aires, 1636, Argentina"
+    },
+    "22": {
+      "address": "Thames 1176, Villa Crespo",
+      "neighborhood": "Villa Crespo",
+      "province": "CABA",
+      "query": "Thames 1176, Villa Crespo, Buenos Aires, Argentina",
+      "lat": -34.590923,
+      "lng": -58.43571,
+      "display": "1176, Thames, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414DCN, Argentina"
+    },
+    "24": {
+      "address": "Chile 980, San Telmo",
+      "neighborhood": "San Telmo",
+      "province": "CABA",
+      "query": "Chile 980, San Telmo, Buenos Aires, Argentina",
+      "lat": -34.616216,
+      "lng": -58.375982,
+      "display": "Chile, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1069AAP, Argentina"
+    },
+    "25": {
+      "address": "Paraguay 627, Retiro",
+      "neighborhood": "Retiro",
+      "province": "CABA",
+      "query": "Paraguay 627, Buenos Aires, Argentina",
+      "lat": -34.597466,
+      "lng": -58.375821,
+      "display": "La Motofeca, 627, Paraguay, Catalinas Norte, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, 1057, Argentina"
+    },
+    "27": {
+      "address": "Vuelta de Obligado 2613, Belgrano",
+      "neighborhood": "Belgrano",
+      "province": "CABA",
+      "query": "Vuelta de Obligado 2613, Belgrano, Buenos Aires, Argentina",
+      "lat": -34.556554,
+      "lng": -58.459809,
+      "display": "Vedra, 2613, Vuelta de Obligado, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428, Argentina"
+    },
+    "28": {
+      "address": "Arévalo 2877, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Arévalo 2877, Palermo, Buenos Aires, Argentina",
+      "lat": -34.572328,
+      "lng": -58.43131,
+      "display": "2877, Arévalo, Las Cañitas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426AAH, Argentina"
+    },
+    "29": {
+      "address": "Florida 1045, Edificio Kavanagh, Retiro",
+      "neighborhood": "Retiro",
+      "province": "CABA",
+      "query": "Edificio Kavanagh, Florida, Buenos Aires, Argentina",
+      "lat": -34.59535,
+      "lng": -58.37455,
+      "display": "Edificio Kavanagh, Florida 1045, Retiro",
+      "lat": -34.603349,
+      "lng": -58.374562,
+      "display": "Florida, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAS, Argentina"
+    },
+    "40": {
+      "address": "Humboldt 1542, Palermo Hollywood",
+      "neighborhood": "Palermo Hollywood",
+      "province": "CABA",
+      "query": "Humboldt 1542, Palermo, Buenos Aires, Argentina",
+      "lat": -34.586024,
+      "lng": -58.436859,
+      "display": "1542, Humboldt, Palermo Hollywood, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414CWG, Argentina"
+    },
+    "45": {
+      "address": "Malabia 1343, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Malabia 1343, Palermo, Buenos Aires, Argentina",
+      "lat": -34.592711,
+      "lng": -58.429712,
+      "display": "Hobby, 1343, Malabia, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425, Argentina"
+    },
+    "46": {
+      "address": "Junín 926, Barrio Norte, Recoleta",
+      "neighborhood": "Recoleta",
+      "province": "CABA",
+      "query": "Junín 926, Recoleta, Buenos Aires, Argentina",
+      "lat": -34.598251,
+      "lng": -58.397455,
+      "display": "Canillita, 926, Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1113, Argentina"
+    },
+    "61": {
+      "address": "Paunero 1030, San Miguel",
+      "neighborhood": "San Miguel",
+      "province": "Buenos Aires",
+      "query": "Paunero 1030, San Miguel, Buenos Aires, Argentina",
+      "lat": -34.544713,
+      "lng": -58.706882,
+      "display": "Paunero, San Miguel, Partido de San Miguel, Buenos Aires, B1663, Argentina"
+    },
+    "65": {
+      "address": "Libertad 545, San Nicolás",
+      "neighborhood": "San Nicolás",
+      "province": "CABA",
+      "query": "Libertad 545, Buenos Aires, Argentina",
+      "lat": -34.602039,
+      "lng": -58.383764,
+      "display": "545, Libertad, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAY, Argentina"
+    },
+    "70": {
+      "address": "Acevedo 435, Villa Crespo",
+      "neighborhood": "Villa Crespo",
+      "province": "CABA",
+      "query": "Acevedo 435, Villa Crespo, Buenos Aires, Argentina",
+      "lat": -34.597875,
+      "lng": -58.440084,
+      "display": "435, Acevedo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414ASL, Argentina"
+    },
+    "71": {
+      "address": "Armenia 1929, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Armenia 1929, Palermo, Buenos Aires, Argentina",
+      "lat": -34.588104,
+      "lng": -58.425066,
+      "display": "Hacienda Coffee Co., 1929, Armenia, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FBC, Argentina"
+    },
+    "73": {
+      "address": "Güemes 3626, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Güemes 3626, Palermo, Buenos Aires, Argentina",
+      "lat": -34.588634,
+      "lng": -58.413952,
+      "display": "3626, Güemes, Alto Palermo, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina"
+    },
+    "80": {
+      "address": "Olleros 1637, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Olleros 1637, Palermo, Buenos Aires, Argentina",
+      "lat": -34.570253,
+      "lng": -58.444361,
+      "display": "Olleros, Metrobús Norte, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426AAF, Argentina"
+    },
+    "81": {
+      "address": "Quesada 1798, Núñez",
+      "neighborhood": "Núñez",
+      "province": "CABA",
+      "query": "Quesada 1798, Núñez, Buenos Aires, Argentina",
+      "lat": -34.551213,
+      "lng": -58.457125,
+      "display": "1798, Quesada, Núñez, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426ABC, Argentina"
+    },
+    "82": {
+      "address": "Guatemala 4798, Palermo",
+      "neighborhood": "Palermo",
+      "province": "CABA",
+      "query": "Guatemala 4798, Palermo, Buenos Aires, Argentina",
+      "lat": -34.585717,
+      "lng": -58.4254,
+      "display": "4798, Guatemala, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425BUN, Argentina"
+    },
+    "83": {
+      "address": "Guido 2402, Recoleta",
+      "neighborhood": "Recoleta",
+      "province": "CABA",
+      "query": "Guido 2402, Recoleta, Buenos Aires, Argentina",
+      "lat": -34.586285,
+      "lng": -58.395162,
+      "display": "2402, Guido, La Isla, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1128ACJ, Argentina"
+    },
+    "84": {
+      "address": "Jean Jaurès 987, Balvanera",
+      "neighborhood": "Balvanera",
+      "province": "CABA",
+      "query": "Jean Jaurès 987, Buenos Aires, Argentina",
+      "lat": -34.598338,
+      "lng": -58.406664,
+      "display": "987, Jean Jaures, Abasto, Balvanera, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, C1215ACQ, Argentina"
+    },
+    "86": {
+      "address": "San Martín 780, Quilmes",
+      "neighborhood": "Quilmes",
+      "province": "Buenos Aires",
+      "query": "San Martín 780, Quilmes, Buenos Aires, Argentina",
+      "lat": -34.725765,
+      "lng": -58.257025,
+      "display": "780, San Martín, Quilmes Centro, Quilmes, Partido de Quilmes, Buenos Aires, B1878, Argentina"
+    },
+    "88": {
+      "address": "Dr. Emilio Cardeza 227, Monte Grande",
+      "neighborhood": "Monte Grande",
+      "province": "Buenos Aires",
+      "query": "Emilio Cardeza 227, Monte Grande, Buenos Aires, Argentina",
+      "lat": -34.816887,
+      "lng": -58.463797,
+      "display": "227, Doctor Emilio Cardeza, Monte Grande, Partido de Esteban Echeverría, Buenos Aires, 1842, Argentina"
+    },
+    "92": {
+      "address": "Pareja 4089, Devoto",
+      "neighborhood": "Devoto",
+      "province": "CABA",
+      "query": "Pareja 4089, Villa Devoto, Buenos Aires, Argentina",
+      "lat": -34.599041,
+      "lng": -58.513653,
+      "display": "4089, Pareja, Villa Devoto, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1419GGI, Argentina"
+    }
+  }
+}

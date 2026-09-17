@@ -22,7 +22,15 @@ python3 scripts/apply_enrichment.py
 
 ## Datos
 
-Las coordenadas del top usan direcciones publicadas. El resto está cerca del centro del barrio o la ciudad, para que el mapa nacional se lea. Las fotos destacadas salen de Clarín y La Nación. El resto es stock de Unsplash.
+Las coordenadas con dirección de calle salen de sitios oficiales, Instagram y notas de prensa, geocodificadas con Nominatim. Si una ficha de CABA no tiene dirección publicada, **no se pinta en el mapa**: antes se las esparcía alrededor de Plaza de Mayo y parecía que el Microcentro estaba lleno de cafeterías. El resto del país, si solo sabemos la ciudad, sigue cerca del centro de esa ciudad.
+
+Para regenerar pins con direcciones verificadas:
+
+```bash
+python3 scripts/apply_addresses.py
+```
+
+Las fotos destacadas salen de Clarín y La Nación. El resto es stock de Unsplash.
 
 Instagram solo cuando el handle se pudo verificar. Si falta uno, no está inventado.
 

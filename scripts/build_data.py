@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Build cafe dataset with curated + centroid coordinates (offline-friendly)."""
+"""Build cafe dataset with curated + centroid coordinates (offline-friendly).
+
+After this, run apply_addresses.py so CABA pins use street addresses
+instead of jitter around Plaza de Mayo.
+"""
 
 import json
 import math
@@ -32,6 +36,12 @@ CENTROIDS = {
     "palermo": (-34.5875, -58.4250),
     "palermo hollywood": (-34.5800, -58.4350),
     "palermo chico": (-34.5770, -58.4080),
+    "recoleta": (-34.5880, -58.3925),
+    "retiro": (-34.5925, -58.3748),
+    "belgrano": (-34.5620, -58.4560),
+    "san telmo": (-34.6210, -58.3730),
+    "núñez": (-34.5450, -58.4620),
+    "las cañitas": (-34.5665, -58.4320),
     "puerto madero": (-34.6090, -58.3620),
     "san nicolás": (-34.6045, -58.3810),
     "villa crespo": (-34.5980, -58.4400),

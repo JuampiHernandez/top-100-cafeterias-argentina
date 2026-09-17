@@ -118,6 +118,18 @@ function matchesFilter(cafe) {
   return true;
 }
 
+function hasPrecisePin(cafe) {
+  if (cafe.precise === true) return true;
+  if (cafe.precise === false) return false;
+  return cafe.geocodeSource === "curated" || cafe.geocodeSource === "nominatim" || cafe.geocodeSource === "verified";
+}
+
+function showsOnMap(cafe) {
+  if (hasPrecisePin(cafe)) return true;
+  const neighborhood = (cafe.neighborhood || "").trim().toUpperCase();
+  return neighborhood !== "" && neighborhood !== "CABA";
+}
+
 function escapeHtml(value) {
   return String(value || "")
     .replace(/&/g, "&amp;")
@@ -138,6 +150,8 @@ function matchesQuery(cafe) {
   return (
     cafe.name.toLowerCase().includes(q) ||
     cafe.location.toLowerCase().includes(q) ||
+    (cafe.address || "").toLowerCase().includes(q) ||
+    (cafe.neighborhood || "").toLowerCase().includes(q) ||
     String(cafe.rank) === q
   );
 }
@@ -297,6 +311,15 @@ function focusCafe(cafe, { fromList = false, revealMap = false } = {}) {
   map.closePopup();
   openDetail(cafe);
 
+  if (!showsOnMap(cafe)) {
+    if (fromList) {
+      renderList();
+      const item = listEl.querySelector(`[data-rank="${cafe.rank}"]`);
+      if (item) item.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    }
+    return;
+  }
+
   if (fromList && isMobile() && revealMap) {
     closeSidebar();
     window.setTimeout(() => ensureCafeVisible(cafe), 360);
@@ -328,7 +351,9 @@ function renderList() {
           <div class="cafe-meta">
             <span class="cafe-rank">#${cafe.rank}</span>
             <p class="cafe-name">${escapeHtml(cafe.name)}</p>
-            <p class="cafe-loc">${escapeHtml(cafe.location)}</p>
+            <p class="cafe-loc">${escapeHtml(cafe.location)}${
+              showsOnMap(cafe) ? "" : " · sin pin exacto"
+            }</p>
           </div>
         </div>
         <div class="cafe-extra">
@@ -336,7 +361,11 @@ function renderList() {
           <div class="cafe-extra-links">
             ${ig}
             <a href="${mapsUrl(cafe)}" target="_blank" rel="noopener">Google Maps</a>
-            <button type="button" class="cafe-show-map">Ver en el mapa</button>
+            ${
+              showsOnMap(cafe)
+                ? `<button type="button" class="cafe-show-map">Ver en el mapa</button>`
+                : `<span class="cafe-approx">Aún no hay dirección publicada: no la marcamos en el centro para no inventar un racimo.</span>`
+            }
           </div>
         </div>
       </li>`;
@@ -366,7 +395,7 @@ function renderList() {
 function renderMarkers({ fit = false } = {}) {
   markerLayer.clearLayers();
   state.markers.clear();
-  const cafes = visibleCafes();
+  const cafes = visibleCafes().filter(showsOnMap);
 
   cafes.forEach((cafe) => {
     const marker = L.marker([cafe.lat, cafe.lng], {

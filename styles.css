@@ -344,6 +344,13 @@ html[data-theme="light"] .cafe-rank {
   text-overflow: ellipsis;
 }
 
+.cafe-approx {
+  display: block;
+  font-size: 0.74rem;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
 .cafe-extra {
   display: none;
   padding: 0.7rem 0.15rem 0.15rem;

@@ -24,10 +24,10 @@ https://www.instagram.com/blancastudio___/</description>
     <Placemark>
       <name>#3 Ciro</name>
       <description>Restaurante y cafetería de inspiración italiana. Granos de Brasil con Modo Barista: frutos rojos, chocolate y almendra. Sedes en Puerto Madero y Palermo.
-Puerto Madero y Palermo
+Pierina Dealessi 1350, Puerto Madero
 https://www.instagram.com/ciro.gastronomia/</description>
       <Point>
-        <coordinates>-58.363,-34.6095,0</coordinates>
+        <coordinates>-58.363376,-34.614238,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -50,19 +50,19 @@ https://www.instagram.com/cuervocafe/</description>
     </Placemark>
     <Placemark>
       <name>#6 Blanca</name>
-      <description>Concept store de café, bakery y objetos en Palermo Chico. Es la casa madre de Blanca Studio, con otro ritmo y más espacio.
-Palermo Chico, CABA
+      <description>Concept store de café, bakery y objetos. Casa madre de Blanca Studio, con local en Soldado de la Independencia 1177, Las Cañitas.
+Soldado de la Independencia 1177, Las Cañitas
 https://www.instagram.com/blancadecocafe/</description>
       <Point>
-        <coordinates>-58.4165,-34.589778,0</coordinates>
+        <coordinates>-58.439214,-34.564619,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#7 Negro</name>
       <description>Negro Cueva de Café, en San Nicolás. Séptimo a nivel país y 94 en The World's 100 Best Coffee Shops 2026.
-San Nicolás, CABA</description>
+Suipacha 637, San Nicolás</description>
       <Point>
-        <coordinates>-58.3775,-34.6038,0</coordinates>
+        <coordinates>-58.379578,-34.60084,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -77,19 +77,19 @@ https://www.instagram.com/calafatecoffeeroasters/</description>
     <Placemark>
       <name>#9 Meme</name>
       <description>Café de especialidad en Palermo, en Dorrego 2591. Barra chica y mucha gente del barrio.
-Palermo, CABA
+Dorrego 2591, Palermo
 https://www.instagram.com/_memecoffee/</description>
       <Point>
-        <coordinates>-58.422857,-34.592674,0</coordinates>
+        <coordinates>-58.434494,-34.574594,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#10 Raíz</name>
       <description>Barra de especialidad en Villa Crespo, un poco más lejos del circuito Palermo.
-Villa Crespo, CABA
+Aguirre 1015, Villa Crespo
 https://www.instagram.com/raiz.cafe/</description>
       <Point>
-        <coordinates>-58.4458,-34.595295,0</coordinates>
+        <coordinates>-58.432588,-34.600943,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -131,10 +131,10 @@ https://www.instagram.com/labdejuju/</description>
     <Placemark>
       <name>#15 Parce Café Studio</name>
       <description>Studio de café y escucha musical en Córdoba, en Pasaje Comercio 467.
-Córdoba, Córdoba
+Pasaje Comercio 467, Córdoba
 https://www.instagram.com/parcecafestudio/</description>
       <Point>
-        <coordinates>-64.193559,-31.420727,0</coordinates>
+        <coordinates>-64.190565,-31.408017,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -180,20 +180,20 @@ flat&amp;white, 1224, Cerrito, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad 
     </Placemark>
     <Placemark>
       <name>#21 Zulu Haus</name>
-      <description>Café y pastelería con un aire más quieto. Entre las firmas, un tiramisú keto.
-CABA, CABA
+      <description>Café y pastelería de Maia Mendoza en La Lucila, Zona Norte. Entre las firmas, un tiramisú keto.
+Salvador Debenedetti 635, La Lucila
 https://www.instagram.com/zulu.haus/</description>
       <Point>
-        <coordinates>-58.381078,-34.599734,0</coordinates>
+        <coordinates>-58.488799,-34.497721,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#22 Primero Café</name>
       <description>Café de especialidad en Buenos Aires. En su bio se presentan como el 22 del ranking.
-CABA, CABA
+Thames 1176, Villa Crespo
 https://www.instagram.com/primerocafe.ar/</description>
       <Point>
-        <coordinates>-58.378847,-34.607632,0</coordinates>
+        <coordinates>-58.43571,-34.590923,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -207,19 +207,19 @@ Rosario, Santa Fe</description>
     <Placemark>
       <name>#24 Wat Coffee</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA
+Chile 980, San Telmo
 https://www.instagram.com/wat_coffee/</description>
       <Point>
-        <coordinates>-58.376057,-34.6005,0</coordinates>
+        <coordinates>-58.375982,-34.616216,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#25 Motofeca</name>
-      <description>Tostadores de especialidad en Buenos Aires. También venden drip bags para armar el café sin cafetera.
-CABA, CABA
+      <description>Tostadores de especialidad en Paraguay 627, Retiro. También venden drip bags para armar el café sin cafetera.
+Paraguay 627, Retiro
 https://www.instagram.com/motofeca/</description>
       <Point>
-        <coordinates>-58.383765,-34.610567,0</coordinates>
+        <coordinates>-58.375821,-34.597466,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -234,26 +234,26 @@ https://www.instagram.com/ostiacafe/</description>
     <Placemark>
       <name>#27 Vedra Café</name>
       <description>Cafetería de especialidad en Buenos Aires.
-CABA, CABA</description>
+Vuelta de Obligado 2613, Belgrano</description>
       <Point>
-        <coordinates>-58.37347,-34.607068,0</coordinates>
+        <coordinates>-58.459809,-34.556554,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#28 Surry Hills</name>
       <description>Brunch australiano y café de especialidad. Quedó 99 en The World's 100 Best Coffee Shops 2026. La bakery también es protagonista.
-CABA, CABA
+Arévalo 2877, Palermo
 https://www.instagram.com/surryhillsbuenosaires/</description>
       <Point>
-        <coordinates>-58.385359,-34.605068,0</coordinates>
+        <coordinates>-58.43131,-34.572328,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#29 Cora Café</name>
-      <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+      <description>Café de especialidad en el hall del Kavanagh, sobre Florida, en Retiro.
+Florida 1045, Edificio Kavanagh, Retiro</description>
       <Point>
-        <coordinates>-58.379384,-34.599442,0</coordinates>
+        <coordinates>-58.37455,-34.59535,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -340,10 +340,10 @@ Manifiesto por el Café, Aguilar, Palermo, Buenos Aires, Comuna 14, Ciudad Autó
     <Placemark>
       <name>#40 Lab Tostadores</name>
       <description>Tostadero y barra de especialidad en Buenos Aires.
-CABA, CABA
+Humboldt 1542, Palermo Hollywood
 https://www.instagram.com/labtostadores/</description>
       <Point>
-        <coordinates>-58.373722,-34.605089,0</coordinates>
+        <coordinates>-58.436859,-34.586024,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -382,16 +382,16 @@ https://www.instagram.com/greenmug.coffee/</description>
     <Placemark>
       <name>#45 Hobby Café</name>
       <description>Coffee roasters en Buenos Aires.
-CABA, CABA
+Malabia 1343, Palermo
 https://www.instagram.com/hobbycafe.ba/</description>
       <Point>
-        <coordinates>-58.375687,-34.601251,0</coordinates>
+        <coordinates>-58.429712,-34.592711,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#46 Canillita</name>
-      <description>Café de especialidad en Buenos Aires.
-Canillita, 926, Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1113, Argentina</description>
+      <description>Puesto de diarios convertido en café de especialidad, en Junín y Paraguay, Recoleta.
+Junín 926, Barrio Norte, Recoleta</description>
       <Point>
         <coordinates>-58.397455,-34.598251,0</coordinates>
       </Point>
@@ -514,9 +514,9 @@ Santa Cruz, Santa Cruz</description>
     <Placemark>
       <name>#61 Uno Dos Café</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Paunero 1030, San Miguel</description>
       <Point>
-        <coordinates>-58.37397,-34.606106,0</coordinates>
+        <coordinates>-58.706882,-34.544713,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -546,9 +546,9 @@ Santa Fe, Santa Fe</description>
     <Placemark>
       <name>#65 Café Boheme</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Libertad 545, San Nicolás</description>
       <Point>
-        <coordinates>-58.386567,-34.601114,0</coordinates>
+        <coordinates>-58.383764,-34.602039,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -586,17 +586,17 @@ Daniel Bakery, Avenida Honduras, Palermo, Buenos Aires, Comuna 14, Ciudad Autón
     <Placemark>
       <name>#70 Salma Café</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Acevedo 435, Villa Crespo</description>
       <Point>
-        <coordinates>-58.385585,-34.604049,0</coordinates>
+        <coordinates>-58.440084,-34.597875,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#71 Hacienda Coffee Company</name>
       <description>Coffee company en Buenos Aires.
-CABA, CABA</description>
+Armenia 1929, Palermo</description>
       <Point>
-        <coordinates>-58.378357,-34.600161,0</coordinates>
+        <coordinates>-58.425066,-34.588104,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -610,9 +610,9 @@ CABA, CABA</description>
     <Placemark>
       <name>#73 Bulgaro</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Güemes 3626, Palermo</description>
       <Point>
-        <coordinates>-58.385924,-34.598981,0</coordinates>
+        <coordinates>-58.413952,-34.588634,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -666,41 +666,42 @@ Rosario, Santa Fe</description>
     <Placemark>
       <name>#80 Bicho Café</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Olleros 1637, Palermo</description>
       <Point>
-        <coordinates>-58.383789,-34.609714,0</coordinates>
+        <coordinates>-58.444361,-34.570253,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#81 Báltica Café</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Quesada 1798, Núñez</description>
       <Point>
-        <coordinates>-58.384355,-34.597048,0</coordinates>
+        <coordinates>-58.457125,-34.551213,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#82 Ciro Café (Palermo)</name>
       <description>La sede palermitana de Ciro. Misma inspiración italiana, otro barrio.
-Palermo, CABA</description>
+Guatemala 4798, Palermo</description>
       <Point>
-        <coordinates>-58.41775,-34.590881,0</coordinates>
+        <coordinates>-58.4254,-34.585717,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#83 Sinsa Café</name>
-      <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+      <description>Café de especialidad en Guido 2402, Recoleta, a una cuadra del cementerio.
+Guido 2402, Recoleta
+https://www.instagram.com/sinsacafe/</description>
       <Point>
-        <coordinates>-58.389993,-34.606346,0</coordinates>
+        <coordinates>-58.395162,-34.586285,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>#84 Gabs Café</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Jean Jaurès 987, Balvanera</description>
       <Point>
-        <coordinates>-58.3796,-34.600236,0</coordinates>
+        <coordinates>-58.406664,-34.598338,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -714,9 +715,9 @@ CABA, CABA</description>
     <Placemark>
       <name>#86 Voltri</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+San Martín 780, Quilmes</description>
       <Point>
-        <coordinates>-58.386187,-34.600488,0</coordinates>
+        <coordinates>-58.257025,-34.725765,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -730,9 +731,9 @@ Cobre Café, 727, Acevedo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autóno
     <Placemark>
       <name>#88 Caffetos</name>
       <description>Café de especialidad en Buenos Aires.
-CABA, CABA</description>
+Dr. Emilio Cardeza 227, Monte Grande</description>
       <Point>
-        <coordinates>-58.386228,-34.609216,0</coordinates>
+        <coordinates>-58.463797,-34.816887,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -762,9 +763,9 @@ San Juan, San Juan</description>
     <Placemark>
       <name>#92 Korto Coffee House</name>
       <description>Coffee house en Buenos Aires.
-CABA, CABA</description>
+Pareja 4089, Devoto</description>
       <Point>
-        <coordinates>-58.377923,-34.600615,0</coordinates>
+        <coordinates>-58.513653,-34.599041,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
