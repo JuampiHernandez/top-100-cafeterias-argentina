@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Top 100 cafeterías Argentina 2026</name>
+    <description>The Best Coffee Shops Argentina 2026. Importá este archivo en Google My Maps y después usá Copiar mapa para tenerlo en tu cuenta.</description>
+    <Placemark>
+      <name>#1 Tres</name>
+      <description>Tostadero y barra separados por un panel de vidrio. Sirven y tuestan su propio café, con grano colombiano de acidez media-alta y notas cítricas. Local minimalista frente a la vía del tren Mitre.
+Teodoro García 2806, Colegiales
+https://www.instagram.com/tres.tostador/</description>
+      <Point>
+        <coordinates>-58.448281,-34.573272,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#2 Blanca Studio</name>
+      <description>Espacio íntimo entre Colegiales y Chacarita. Menú de orígenes según temporada, matcha y pastelería, con vinilos de fondo.
+Av. Álvarez Thomas 764, Chacarita
+https://www.instagram.com/blancastudio___/</description>
+      <Point>
+        <coordinates>-58.4545,-34.5858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#3 Ciro</name>
+      <description>Restaurante y cafetería de inspiración italiana. Granos de Brasil con Modo Barista: frutos rojos, chocolate y almendra. Sedes en Puerto Madero y Palermo.
+Puerto Madero y Palermo
+https://www.instagram.com/ciro.gastronomia/</description>
+      <Point>
+        <coordinates>-58.363,-34.6095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#4 Vive Café</name>
+      <description>Tuestan y perfilan café de distintos orígenes, en filtrados y espresso. Dos locales: Palermo Hollywood y Villa Ortúzar.
+Palermo Hollywood y Villa Ortúzar
+https://www.instagram.com/vivecafe/</description>
+      <Point>
+        <coordinates>-58.432,-34.5815,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#5 Cuervo Café</name>
+      <description>Arrancaron en 2016 Agustín Caro y Pablo Tokatlian. Tuestan granos que importan de distintos orígenes y hoy también tienen heladería.
+Chacarita, CABA
+https://www.instagram.com/cuervocafe/</description>
+      <Point>
+        <coordinates>-58.452,-34.5885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#6 Blanca</name>
+      <description>Concept store de café, bakery y objetos en Palermo Chico. Es la casa madre de Blanca Studio, con otro ritmo y más espacio.
+Palermo Chico, CABA
+https://www.instagram.com/blancadecocafe/</description>
+      <Point>
+        <coordinates>-58.4165,-34.589778,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#7 Negro</name>
+      <description>Negro Cueva de Café, en San Nicolás. Séptimo a nivel país y 94 en The World's 100 Best Coffee Shops 2026.
+San Nicolás, CABA</description>
+      <Point>
+        <coordinates>-58.3775,-34.6038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#8 Calafate Coffee Roasters</name>
+      <description>Tuestan y sirven café de especialidad en El Calafate, en José Pantin 31. También mandan grano a todo el país.
+Calafate Coffee Roasters, 31, José Pantin, Centro, El Calafate, Municipio de El Calafate, Lago Argentino, Santa Cruz, Z9405, Argentina
+https://www.instagram.com/calafatecoffeeroasters/</description>
+      <Point>
+        <coordinates>-72.259089,-50.337948,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#9 Meme</name>
+      <description>Café de especialidad en Palermo, en Dorrego 2591. Barra chica y mucha gente del barrio.
+Palermo, CABA
+https://www.instagram.com/_memecoffee/</description>
+      <Point>
+        <coordinates>-58.422857,-34.592674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#10 Raíz</name>
+      <description>Barra de especialidad en Villa Crespo, un poco más lejos del circuito Palermo.
+Villa Crespo, CABA
+https://www.instagram.com/raiz.cafe/</description>
+      <Point>
+        <coordinates>-58.4458,-34.595295,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#11 Fruto</name>
+      <description>Café de especialidad en Palermo, sobre Cabrera.
+FRUTO, José Antonio Cabrera, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414BBE, Argentina
+https://www.instagram.com/fruto.cafe/</description>
+      <Point>
+        <coordinates>-58.441609,-34.582993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#12 Lattente</name>
+      <description>Cafetería de especialidad en Thames, Palermo Soho.
+Lattente, 1891, Thames, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414DAU, Argentina
+https://www.instagram.com/lattentecafe/</description>
+      <Point>
+        <coordinates>-58.428024,-34.586166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#13 Ruffo</name>
+      <description>Tostadero y cafetería en su fábrica de Rosario. Podés almorzar mirando cómo tuestan.
+Rosario, Santa Fe
+https://www.instagram.com/ruffocoffee/</description>
+      <Point>
+        <coordinates>-60.652405,-32.935609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#14 Lab de Juju</name>
+      <description>Laboratorio de café de especialidad en Rosario, el proyecto formativo de Juju Parera.
+Rosario, Santa Fe
+https://www.instagram.com/labdejuju/</description>
+      <Point>
+        <coordinates>-60.647223,-32.946494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#15 Parce Café Studio</name>
+      <description>Studio de café y escucha musical en Córdoba, en Pasaje Comercio 467.
+Córdoba, Córdoba
+https://www.instagram.com/parcecafestudio/</description>
+      <Point>
+        <coordinates>-64.193559,-31.420727,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#16 Standalone Coffee Lab</name>
+      <description>Coffee lab en Buenos Aires. Más laboratorio de extracciones que cafetería de paso.
+CABA, CABA
+https://www.instagram.com/standalone.lab/</description>
+      <Point>
+        <coordinates>-58.378,-34.59941,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#17 Rita</name>
+      <description>Café de especialidad en Armenia, Palermo Soho.
+Rita Cafe, 1595, Armenia, Palermo Soho, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414BMK, Argentina</description>
+      <Point>
+        <coordinates>-58.428205,-34.590179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#18 Casa Chacana</name>
+      <description>Cafetería de especialidad en Córdoba.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.193891,-31.415009,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#19 Runge</name>
+      <description>Café de especialidad en el Parque, Rosario Centro.
+Runge Café, Italia, Parque, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, S2000, Argentina</description>
+      <Point>
+        <coordinates>-60.646985,-32.941869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#20 Flat &amp; White</name>
+      <description>Barra de especialidad cerca de Retiro, sobre Cerrito.
+flat&amp;white, 1224, Cerrito, Villa 31, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1010AAZ, Argentina</description>
+      <Point>
+        <coordinates>-58.382988,-34.59396,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#21 Zulu Haus</name>
+      <description>Café y pastelería con un aire más quieto. Entre las firmas, un tiramisú keto.
+CABA, CABA
+https://www.instagram.com/zulu.haus/</description>
+      <Point>
+        <coordinates>-58.381078,-34.599734,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#22 Primero Café</name>
+      <description>Café de especialidad en Buenos Aires. En su bio se presentan como el 22 del ranking.
+CABA, CABA
+https://www.instagram.com/primerocafe.ar/</description>
+      <Point>
+        <coordinates>-58.378847,-34.607632,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#23 Gota</name>
+      <description>Cafetería de especialidad en Rosario.
+Rosario, Santa Fe</description>
+      <Point>
+        <coordinates>-60.655967,-32.942988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#24 Wat Coffee</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA
+https://www.instagram.com/wat_coffee/</description>
+      <Point>
+        <coordinates>-58.376057,-34.6005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#25 Motofeca</name>
+      <description>Tostadores de especialidad en Buenos Aires. También venden drip bags para armar el café sin cafetera.
+CABA, CABA
+https://www.instagram.com/motofeca/</description>
+      <Point>
+        <coordinates>-58.383765,-34.610567,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#26 Ostia</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA
+https://www.instagram.com/ostiacafe/</description>
+      <Point>
+        <coordinates>-58.384981,-34.59645,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#27 Vedra Café</name>
+      <description>Cafetería de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.37347,-34.607068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#28 Surry Hills</name>
+      <description>Brunch australiano y café de especialidad. Quedó 99 en The World's 100 Best Coffee Shops 2026. La bakery también es protagonista.
+CABA, CABA
+https://www.instagram.com/surryhillsbuenosaires/</description>
+      <Point>
+        <coordinates>-58.385359,-34.605068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#29 Cora Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.379384,-34.599442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#30 The Coffee Store (Martínez)</name>
+      <description>Cafetería de especialidad en Martínez, Zona Norte.
+Martínez, Buenos Aires</description>
+      <Point>
+        <coordinates>-58.506551,-34.493409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#31 Onno</name>
+      <description>Café de especialidad en Almagro, sobre Río de Janeiro.
+Onno, Río de Janeiro, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1405DHB, Argentina</description>
+      <Point>
+        <coordinates>-58.432645,-34.603443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#32 Café Delirante</name>
+      <description>Café de especialidad en Bariloche, sobre Avenida de los Pioneros.
+Café Delirante, 4962, Avenida de los Pioneros, Carihue, San Carlos de Bariloche, Municipio de San Carlos de Bariloche, Departamento Bariloche, Río Negro, 8400, Argentina</description>
+      <Point>
+        <coordinates>-71.369329,-41.130348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#33 Lharmonie</name>
+      <description>Cafetería sobre Libertador, en Palermo Botánico.
+LHarmonie, 3118, Avenida Del Libertador, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425DCO, Argentina</description>
+      <Point>
+        <coordinates>-58.412396,-34.576576,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#34 Café Heraldo</name>
+      <description>Café de especialidad en Mar del Plata.
+Mar del Plata, Buenos Aires</description>
+      <Point>
+        <coordinates>-57.543367,-37.996733,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#35 Malcriada</name>
+      <description>Café de especialidad en Palermo Hollywood, sobre Bonpland.
+Malcriada Café, 1367, Bonpland, Palermo Hollywood, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, 1425, Argentina</description>
+      <Point>
+        <coordinates>-58.440674,-34.586307,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#36 Punto Café</name>
+      <description>Barra de especialidad en Monserrat, sobre Perú.
+Punto Café, 602, Perú, Monserrat, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1068AAB, Argentina</description>
+      <Point>
+        <coordinates>-58.37437,-34.615005,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#37 Cofi Jaus</name>
+      <description>Café de especialidad en Buenos Aires.
+Cofi Jaus, 1793, Humboldt, Palermo Hollywood, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414CWC, Argentina</description>
+      <Point>
+        <coordinates>-58.434491,-34.584302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#38 Café Registrado</name>
+      <description>Cadena de especialidad con varios locales. El ranking nacional los puso 38.
+Café Registrado, 5901, Costa Rica, Palermo Hollywood, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, 1414, Argentina
+https://www.instagram.com/caferegistrado/</description>
+      <Point>
+        <coordinates>-58.437698,-34.580134,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#39 Manifiesto</name>
+      <description>Café de especialidad en Buenos Aires.
+Manifiesto por el Café, Aguilar, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1426AAY, Argentina</description>
+      <Point>
+        <coordinates>-58.445444,-34.567102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#40 Lab Tostadores</name>
+      <description>Tostadero y barra de especialidad en Buenos Aires.
+CABA, CABA
+https://www.instagram.com/labtostadores/</description>
+      <Point>
+        <coordinates>-58.373722,-34.605089,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#41 Patio (City Bell)</name>
+      <description>Cafetería de especialidad en City Bell.
+City Bell, Buenos Aires</description>
+      <Point>
+        <coordinates>-58.052422,-34.872728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#42 Sosa Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.380565,-34.599836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#43 Fomento Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.379384,-34.607958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#44 Green Mug</name>
+      <description>Café de especialidad en Mar del Plata. Tienen dos locales: Castelli 1281 y San Luis 3031.
+Mar del Plata, Buenos Aires
+https://www.instagram.com/greenmug.coffee/</description>
+      <Point>
+        <coordinates>-57.547862,-38.003585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#45 Hobby Café</name>
+      <description>Coffee roasters en Buenos Aires.
+CABA, CABA
+https://www.instagram.com/hobbycafe.ba/</description>
+      <Point>
+        <coordinates>-58.375687,-34.601251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#46 Canillita</name>
+      <description>Café de especialidad en Buenos Aires.
+Canillita, 926, Junín, Barrio Norte, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, 1113, Argentina</description>
+      <Point>
+        <coordinates>-58.397455,-34.598251,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#47 Krake</name>
+      <description>Cafetería de especialidad en Córdoba.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.191206,-31.41247,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#48 Serafin</name>
+      <description>Café de especialidad en Corrientes.
+Corrientes, Corrientes</description>
+      <Point>
+        <coordinates>-58.822979,-27.4736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#49 Traje Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.385505,-34.604566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#50 Arto</name>
+      <description>La primera cafetería de especialidad de Rosario, abierta desde 2018.
+Rosario, Santa Fe
+https://www.instagram.com/artocafe/</description>
+      <Point>
+        <coordinates>-60.647747,-32.940268,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#51 Caffé Del Popolo</name>
+      <description>Cafetería de especialidad en Córdoba.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.188069,-31.425652,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#52 Café Puzzi</name>
+      <description>Café de especialidad en Wilde, Zona Sur.
+Wilde, Buenos Aires</description>
+      <Point>
+        <coordinates>-58.324903,-34.695886,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#53 Cafetino (General Pico)</name>
+      <description>Café de especialidad en General Pico, La Pampa.
+General Pico, La Pampa
+https://www.instagram.com/cafetinogeneralpico/</description>
+      <Point>
+        <coordinates>-63.749607,-35.656286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#54 Kaizen</name>
+      <description>Cafetería de especialidad en Jujuy.
+Jujuy, Jujuy</description>
+      <Point>
+        <coordinates>-65.305157,-24.191457,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#55 Ninina</name>
+      <description>Bakery artesanal y café de especialidad. En Buenos Aires están en Gorriti, Borges y El Solar.
+Ninina, 2464, Holmberg, Villa Urquiza, Buenos Aires, Comuna 12, Ciudad Autónoma de Buenos Aires, 1430, Argentina
+https://www.instagram.com/ninina.arg/</description>
+      <Point>
+        <coordinates>-58.477222,-34.569344,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#56 Cobin</name>
+      <description>Café de especialidad en Buenos Aires.
+Cobin, Jerónimo Salguero, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1198AAT, Argentina</description>
+      <Point>
+        <coordinates>-58.41976,-34.606241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#57 Doc Café</name>
+      <description>Café de especialidad en Buenos Aires.
+Doc Café, 645, Aráoz, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414DPM, Argentina</description>
+      <Point>
+        <coordinates>-58.434303,-34.59822,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#58 The Tiny Coffee: Refugio</name>
+      <description>Refugio de café de especialidad en Neuquén.
+Neuquén, Neuquén</description>
+      <Point>
+        <coordinates>-68.054513,-38.948388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#59 Kuta</name>
+      <description>Cafetería de especialidad en Olivos.
+Olivos, Buenos Aires</description>
+      <Point>
+        <coordinates>-58.487385,-34.513748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#60 Paisa High Mountain Coffee</name>
+      <description>Café de altura patagónico, en Santa Cruz.
+Santa Cruz, Santa Cruz</description>
+      <Point>
+        <coordinates>-72.2684,-50.330765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#61 Uno Dos Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.37397,-34.606106,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#62 Shiok Coffee Roasters</name>
+      <description>Coffee roasters en Córdoba.
+Shiok Coffee Roasters, 34, Mitre, Roca, San Francisco, Municipio de San Francisco, Pedanía Juárez Celman, Departamento San Justo, Córdoba, 2400, Argentina</description>
+      <Point>
+        <coordinates>-62.086954,-31.42884,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#63 Plantado Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.380069,-34.600004,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#64 Leto</name>
+      <description>Cafetería de especialidad en Santa Fe capital.
+Santa Fe, Santa Fe</description>
+      <Point>
+        <coordinates>-60.698358,-31.637811,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#65 Café Boheme</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.386567,-34.601114,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#66 La Nieve</name>
+      <description>Café de especialidad en Santa Cruz.
+La Nieve, Avenida San Martín, El Chaltén, Municipio de El Chaltén, Lago Argentino, Santa Cruz, Z9304, Argentina</description>
+      <Point>
+        <coordinates>-72.885578,-49.330549,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#67 Christen Coffee</name>
+      <description>Cafetería de especialidad en Santa Fe.
+Santa Fe, Santa Fe</description>
+      <Point>
+        <coordinates>-60.703869,-31.639372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#68 Birkin</name>
+      <description>Café de especialidad en Buenos Aires.
+Birkin, 3061, República Árabe Siria, Palermo Botánico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425EYL, Argentina</description>
+      <Point>
+        <coordinates>-58.413194,-34.580484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#69 Daniel Bakery</name>
+      <description>Panadería y café en Buenos Aires.
+Daniel Bakery, Avenida Honduras, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1180ACD, Argentina</description>
+      <Point>
+        <coordinates>-58.414625,-34.594094,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#70 Salma Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.385585,-34.604049,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#71 Hacienda Coffee Company</name>
+      <description>Coffee company en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.378357,-34.600161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#72 Merci Coffee Dealer</name>
+      <description>Coffee dealer en Buenos Aires. Más tostadero que salón clásico.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.3816,-34.6093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#73 Bulgaro</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.385924,-34.598981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#74 Mr. Coffee</name>
+      <description>Cafetería de especialidad en Córdoba.
+Mr. Coffee, 955, Belgrano, Camilo Aldao, Municipio de Camilo Aldao, Pedanía Liniers, Departamento Marcos Juárez, Córdoba, X2580, Argentina</description>
+      <Point>
+        <coordinates>-62.093664,-33.128288,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#75 Café LSA</name>
+      <description>Café de especialidad en Salta.
+Salta, Salta</description>
+      <Point>
+        <coordinates>-65.429547,-24.78697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#76 Passage Du Cafe</name>
+      <description>Cafetería de especialidad en Córdoba.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.187272,-31.411434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#77 Almendro</name>
+      <description>Café de especialidad en Resistencia, Chaco.
+Resistencia, Chaco</description>
+      <Point>
+        <coordinates>-58.984551,-27.454774,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#78 Fran Coffee Makers</name>
+      <description>Café de especialidad en Mendoza.
+Mendoza, Mendoza</description>
+      <Point>
+        <coordinates>-68.850436,-32.888258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#79 Feka</name>
+      <description>Cafetería de especialidad en Rosario.
+Rosario, Santa Fe</description>
+      <Point>
+        <coordinates>-60.645533,-32.941614,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#80 Bicho Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.383789,-34.609714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#81 Báltica Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.384355,-34.597048,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#82 Ciro Café (Palermo)</name>
+      <description>La sede palermitana de Ciro. Misma inspiración italiana, otro barrio.
+Palermo, CABA</description>
+      <Point>
+        <coordinates>-58.41775,-34.590881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#83 Sinsa Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.389993,-34.606346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#84 Gabs Café</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.3796,-34.600236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#85 Lon Philosophy</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.380561,-34.608386,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#86 Voltri</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.386187,-34.600488,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#87 Cobre Café</name>
+      <description>Café de especialidad en Buenos Aires.
+Cobre Café, 727, Acevedo, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414ASL, Argentina</description>
+      <Point>
+        <coordinates>-58.436951,-34.59585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#88 Caffetos</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.386228,-34.609216,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#89 Ethiopia Café</name>
+      <description>Cafetería de especialidad en Córdoba, con foco en orígenes.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.189149,-31.412108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#90 Estación Café Salta</name>
+      <description>Café de especialidad en Salta.
+Salta, Salta</description>
+      <Point>
+        <coordinates>-65.416977,-24.788323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#91 Juana House</name>
+      <description>Café de especialidad en San Juan.
+San Juan, San Juan</description>
+      <Point>
+        <coordinates>-68.540396,-31.537326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#92 Korto Coffee House</name>
+      <description>Coffee house en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.377923,-34.600615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#93 Rocco Cafe</name>
+      <description>Café de especialidad en Santa Cruz.
+Santa Cruz, Santa Cruz</description>
+      <Point>
+        <coordinates>-72.265531,-50.342552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#94 Ficus</name>
+      <description>Cafetería de especialidad en Santa Fe.
+Santa Fe, Santa Fe</description>
+      <Point>
+        <coordinates>-60.703671,-31.628057,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#95 Café Copado</name>
+      <description>Café de especialidad en Mendoza.
+Mendoza, Mendoza</description>
+      <Point>
+        <coordinates>-68.838771,-32.891058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#96 Garden Coffee</name>
+      <description>Cafetería de especialidad en Santa Fe.
+Santa Fe, Santa Fe</description>
+      <Point>
+        <coordinates>-60.706928,-31.6373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#97 Aste Café Con Pasión</name>
+      <description>Café de especialidad en Córdoba.
+Córdoba, Córdoba</description>
+      <Point>
+        <coordinates>-64.186154,-31.411707,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#98 Casa Pina</name>
+      <description>Café de especialidad en Buenos Aires.
+Casa Pina, Charcas, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FNI, Argentina</description>
+      <Point>
+        <coordinates>-58.42534,-34.581935,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#99 Florian</name>
+      <description>Café de especialidad en Buenos Aires.
+CABA, CABA</description>
+      <Point>
+        <coordinates>-58.386035,-34.601863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>#100 Habitat</name>
+      <description>Café de especialidad en Mendoza.
+Mendoza, Mendoza</description>
+      <Point>
+        <coordinates>-68.840538,-32.887585,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

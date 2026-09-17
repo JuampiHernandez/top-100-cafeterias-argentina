@@ -1,0 +1,101 @@
+Name,Description,Latitude,Longitude,Instagram,Rank,City
+#1 Tres,"Tostadero y barra separados por un panel de vidrio. Sirven y tuestan su propio café, con grano colombiano de acidez media-alta y notas cítricas. Local minimalista frente a la vía del tren Mitre.",-34.573272,-58.448281,https://www.instagram.com/tres.tostador/,1,"Colegiales, Buenos Aires"
+#2 Blanca Studio,"Espacio íntimo entre Colegiales y Chacarita. Menú de orígenes según temporada, matcha y pastelería, con vinilos de fondo.",-34.5858,-58.4545,https://www.instagram.com/blancastudio___/,2,"Chacarita, Buenos Aires"
+#3 Ciro,"Restaurante y cafetería de inspiración italiana. Granos de Brasil con Modo Barista: frutos rojos, chocolate y almendra. Sedes en Puerto Madero y Palermo.",-34.6095,-58.363,https://www.instagram.com/ciro.gastronomia/,3,"Puerto Madero y Palermo, Buenos Aires"
+#4 Vive Café,"Tuestan y perfilan café de distintos orígenes, en filtrados y espresso. Dos locales: Palermo Hollywood y Villa Ortúzar.",-34.5815,-58.432,https://www.instagram.com/vivecafe/,4,"Palermo, Buenos Aires"
+#5 Cuervo Café,Arrancaron en 2016 Agustín Caro y Pablo Tokatlian. Tuestan granos que importan de distintos orígenes y hoy también tienen heladería.,-34.5885,-58.452,https://www.instagram.com/cuervocafe/,5,"Chacarita, Buenos Aires"
+#6 Blanca,"Concept store de café, bakery y objetos en Palermo Chico. Es la casa madre de Blanca Studio, con otro ritmo y más espacio.",-34.589778,-58.4165,https://www.instagram.com/blancadecocafe/,6,"Palermo Chico, Buenos Aires"
+#7 Negro,"Negro Cueva de Café, en San Nicolás. Séptimo a nivel país y 94 en The World's 100 Best Coffee Shops 2026.",-34.6038,-58.3775,,7,"San Nicolás, Buenos Aires"
+#8 Calafate Coffee Roasters,"Tuestan y sirven café de especialidad en El Calafate, en José Pantin 31. También mandan grano a todo el país.",-50.337948,-72.259089,https://www.instagram.com/calafatecoffeeroasters/,8,"El Calafate, Santa Cruz"
+#9 Meme,"Café de especialidad en Palermo, en Dorrego 2591. Barra chica y mucha gente del barrio.",-34.592674,-58.422857,https://www.instagram.com/_memecoffee/,9,"Palermo, Buenos Aires"
+#10 Raíz,"Barra de especialidad en Villa Crespo, un poco más lejos del circuito Palermo.",-34.595295,-58.4458,https://www.instagram.com/raiz.cafe/,10,"Villa Crespo, Buenos Aires"
+#11 Fruto,"Café de especialidad en Palermo, sobre Cabrera.",-34.582993,-58.441609,https://www.instagram.com/fruto.cafe/,11,Buenos Aires
+#12 Lattente,"Cafetería de especialidad en Thames, Palermo Soho.",-34.586166,-58.428024,https://www.instagram.com/lattentecafe/,12,Buenos Aires
+#13 Ruffo,Tostadero y cafetería en su fábrica de Rosario. Podés almorzar mirando cómo tuestan.,-32.935609,-60.652405,https://www.instagram.com/ruffocoffee/,13,"Rosario, Santa Fe"
+#14 Lab de Juju,"Laboratorio de café de especialidad en Rosario, el proyecto formativo de Juju Parera.",-32.946494,-60.647223,https://www.instagram.com/labdejuju/,14,"Rosario, Santa Fe"
+#15 Parce Café Studio,"Studio de café y escucha musical en Córdoba, en Pasaje Comercio 467.",-31.420727,-64.193559,https://www.instagram.com/parcecafestudio/,15,Córdoba
+#16 Standalone Coffee Lab,Coffee lab en Buenos Aires. Más laboratorio de extracciones que cafetería de paso.,-34.59941,-58.378,https://www.instagram.com/standalone.lab/,16,Buenos Aires
+#17 Rita,"Café de especialidad en Armenia, Palermo Soho.",-34.590179,-58.428205,,17,Buenos Aires
+#18 Casa Chacana,Cafetería de especialidad en Córdoba.,-31.415009,-64.193891,,18,Córdoba
+#19 Runge,"Café de especialidad en el Parque, Rosario Centro.",-32.941869,-60.646985,,19,"Rosario, Santa Fe"
+#20 Flat & White,"Barra de especialidad cerca de Retiro, sobre Cerrito.",-34.59396,-58.382988,,20,Buenos Aires
+#21 Zulu Haus,"Café y pastelería con un aire más quieto. Entre las firmas, un tiramisú keto.",-34.599734,-58.381078,https://www.instagram.com/zulu.haus/,21,Buenos Aires
+#22 Primero Café,Café de especialidad en Buenos Aires. En su bio se presentan como el 22 del ranking.,-34.607632,-58.378847,https://www.instagram.com/primerocafe.ar/,22,Buenos Aires
+#23 Gota,Cafetería de especialidad en Rosario.,-32.942988,-60.655967,,23,"Rosario, Santa Fe"
+#24 Wat Coffee,Café de especialidad en Buenos Aires.,-34.6005,-58.376057,https://www.instagram.com/wat_coffee/,24,Buenos Aires
+#25 Motofeca,Tostadores de especialidad en Buenos Aires. También venden drip bags para armar el café sin cafetera.,-34.610567,-58.383765,https://www.instagram.com/motofeca/,25,Buenos Aires
+#26 Ostia,Café de especialidad en Buenos Aires.,-34.59645,-58.384981,https://www.instagram.com/ostiacafe/,26,Buenos Aires
+#27 Vedra Café,Cafetería de especialidad en Buenos Aires.,-34.607068,-58.37347,,27,Buenos Aires
+#28 Surry Hills,Brunch australiano y café de especialidad. Quedó 99 en The World's 100 Best Coffee Shops 2026. La bakery también es protagonista.,-34.605068,-58.385359,https://www.instagram.com/surryhillsbuenosaires/,28,Buenos Aires
+#29 Cora Café,Café de especialidad en Buenos Aires.,-34.599442,-58.379384,,29,Buenos Aires
+#30 The Coffee Store (Martínez),"Cafetería de especialidad en Martínez, Zona Norte.",-34.493409,-58.506551,,30,"Martínez, Buenos Aires"
+#31 Onno,"Café de especialidad en Almagro, sobre Río de Janeiro.",-34.603443,-58.432645,,31,Buenos Aires
+#32 Café Delirante,"Café de especialidad en Bariloche, sobre Avenida de los Pioneros.",-41.130348,-71.369329,,32,Río Negro
+#33 Lharmonie,"Cafetería sobre Libertador, en Palermo Botánico.",-34.576576,-58.412396,,33,Buenos Aires
+#34 Café Heraldo,Café de especialidad en Mar del Plata.,-37.996733,-57.543367,,34,"Mar del Plata, Buenos Aires"
+#35 Malcriada,"Café de especialidad en Palermo Hollywood, sobre Bonpland.",-34.586307,-58.440674,,35,Buenos Aires
+#36 Punto Café,"Barra de especialidad en Monserrat, sobre Perú.",-34.615005,-58.37437,,36,Buenos Aires
+#37 Cofi Jaus,Café de especialidad en Buenos Aires.,-34.584302,-58.434491,,37,Buenos Aires
+#38 Café Registrado,Cadena de especialidad con varios locales. El ranking nacional los puso 38.,-34.580134,-58.437698,https://www.instagram.com/caferegistrado/,38,Buenos Aires
+#39 Manifiesto,Café de especialidad en Buenos Aires.,-34.567102,-58.445444,,39,Buenos Aires
+#40 Lab Tostadores,Tostadero y barra de especialidad en Buenos Aires.,-34.605089,-58.373722,https://www.instagram.com/labtostadores/,40,Buenos Aires
+#41 Patio (City Bell),Cafetería de especialidad en City Bell.,-34.872728,-58.052422,,41,"City Bell, Buenos Aires"
+#42 Sosa Café,Café de especialidad en Buenos Aires.,-34.599836,-58.380565,,42,Buenos Aires
+#43 Fomento Café,Café de especialidad en Buenos Aires.,-34.607958,-58.379384,,43,Buenos Aires
+#44 Green Mug,Café de especialidad en Mar del Plata. Tienen dos locales: Castelli 1281 y San Luis 3031.,-38.003585,-57.547862,https://www.instagram.com/greenmug.coffee/,44,"Mar del Plata, Buenos Aires"
+#45 Hobby Café,Coffee roasters en Buenos Aires.,-34.601251,-58.375687,https://www.instagram.com/hobbycafe.ba/,45,Buenos Aires
+#46 Canillita,Café de especialidad en Buenos Aires.,-34.598251,-58.397455,,46,Buenos Aires
+#47 Krake,Cafetería de especialidad en Córdoba.,-31.41247,-64.191206,,47,Córdoba
+#48 Serafin,Café de especialidad en Corrientes.,-27.4736,-58.822979,,48,Corrientes
+#49 Traje Café,Café de especialidad en Buenos Aires.,-34.604566,-58.385505,,49,Buenos Aires
+#50 Arto,"La primera cafetería de especialidad de Rosario, abierta desde 2018.",-32.940268,-60.647747,https://www.instagram.com/artocafe/,50,"Rosario, Santa Fe"
+#51 Caffé Del Popolo,Cafetería de especialidad en Córdoba.,-31.425652,-64.188069,,51,Córdoba
+#52 Café Puzzi,"Café de especialidad en Wilde, Zona Sur.",-34.695886,-58.324903,,52,"Wilde, Buenos Aires"
+#53 Cafetino (General Pico),"Café de especialidad en General Pico, La Pampa.",-35.656286,-63.749607,https://www.instagram.com/cafetinogeneralpico/,53,"General Pico, La Pampa"
+#54 Kaizen,Cafetería de especialidad en Jujuy.,-24.191457,-65.305157,,54,Jujuy
+#55 Ninina,"Bakery artesanal y café de especialidad. En Buenos Aires están en Gorriti, Borges y El Solar.",-34.569344,-58.477222,https://www.instagram.com/ninina.arg/,55,Buenos Aires
+#56 Cobin,Café de especialidad en Buenos Aires.,-34.606241,-58.41976,,56,Buenos Aires
+#57 Doc Café,Café de especialidad en Buenos Aires.,-34.59822,-58.434303,,57,Buenos Aires
+#58 The Tiny Coffee: Refugio,Refugio de café de especialidad en Neuquén.,-38.948388,-68.054513,,58,Neuquén
+#59 Kuta,Cafetería de especialidad en Olivos.,-34.513748,-58.487385,,59,"Olivos, Buenos Aires"
+#60 Paisa High Mountain Coffee,"Café de altura patagónico, en Santa Cruz.",-50.330765,-72.2684,,60,Santa Cruz
+#61 Uno Dos Café,Café de especialidad en Buenos Aires.,-34.606106,-58.37397,,61,Buenos Aires
+#62 Shiok Coffee Roasters,Coffee roasters en Córdoba.,-31.42884,-62.086954,,62,Córdoba
+#63 Plantado Café,Café de especialidad en Buenos Aires.,-34.600004,-58.380069,,63,Buenos Aires
+#64 Leto,Cafetería de especialidad en Santa Fe capital.,-31.637811,-60.698358,,64,Santa Fe
+#65 Café Boheme,Café de especialidad en Buenos Aires.,-34.601114,-58.386567,,65,Buenos Aires
+#66 La Nieve,Café de especialidad en Santa Cruz.,-49.330549,-72.885578,,66,Santa Cruz
+#67 Christen Coffee,Cafetería de especialidad en Santa Fe.,-31.639372,-60.703869,,67,Santa Fe
+#68 Birkin,Café de especialidad en Buenos Aires.,-34.580484,-58.413194,,68,Buenos Aires
+#69 Daniel Bakery,Panadería y café en Buenos Aires.,-34.594094,-58.414625,,69,Buenos Aires
+#70 Salma Café,Café de especialidad en Buenos Aires.,-34.604049,-58.385585,,70,Buenos Aires
+#71 Hacienda Coffee Company,Coffee company en Buenos Aires.,-34.600161,-58.378357,,71,Buenos Aires
+#72 Merci Coffee Dealer,Coffee dealer en Buenos Aires. Más tostadero que salón clásico.,-34.6093,-58.3816,,72,Buenos Aires
+#73 Bulgaro,Café de especialidad en Buenos Aires.,-34.598981,-58.385924,,73,Buenos Aires
+#74 Mr. Coffee,Cafetería de especialidad en Córdoba.,-33.128288,-62.093664,,74,Córdoba
+#75 Café LSA,Café de especialidad en Salta.,-24.78697,-65.429547,,75,Salta
+#76 Passage Du Cafe,Cafetería de especialidad en Córdoba.,-31.411434,-64.187272,,76,Córdoba
+#77 Almendro,"Café de especialidad en Resistencia, Chaco.",-27.454774,-58.984551,,77,"Resistencia, Chaco"
+#78 Fran Coffee Makers,Café de especialidad en Mendoza.,-32.888258,-68.850436,,78,Mendoza
+#79 Feka,Cafetería de especialidad en Rosario.,-32.941614,-60.645533,,79,"Rosario, Santa Fe"
+#80 Bicho Café,Café de especialidad en Buenos Aires.,-34.609714,-58.383789,,80,Buenos Aires
+#81 Báltica Café,Café de especialidad en Buenos Aires.,-34.597048,-58.384355,,81,Buenos Aires
+#82 Ciro Café (Palermo),"La sede palermitana de Ciro. Misma inspiración italiana, otro barrio.",-34.590881,-58.41775,,82,"Palermo, Buenos Aires"
+#83 Sinsa Café,Café de especialidad en Buenos Aires.,-34.606346,-58.389993,,83,Buenos Aires
+#84 Gabs Café,Café de especialidad en Buenos Aires.,-34.600236,-58.3796,,84,Buenos Aires
+#85 Lon Philosophy,Café de especialidad en Buenos Aires.,-34.608386,-58.380561,,85,Buenos Aires
+#86 Voltri,Café de especialidad en Buenos Aires.,-34.600488,-58.386187,,86,Buenos Aires
+#87 Cobre Café,Café de especialidad en Buenos Aires.,-34.59585,-58.436951,,87,Buenos Aires
+#88 Caffetos,Café de especialidad en Buenos Aires.,-34.609216,-58.386228,,88,Buenos Aires
+#89 Ethiopia Café,"Cafetería de especialidad en Córdoba, con foco en orígenes.",-31.412108,-64.189149,,89,Córdoba
+#90 Estación Café Salta,Café de especialidad en Salta.,-24.788323,-65.416977,,90,Salta
+#91 Juana House,Café de especialidad en San Juan.,-31.537326,-68.540396,,91,San Juan
+#92 Korto Coffee House,Coffee house en Buenos Aires.,-34.600615,-58.377923,,92,Buenos Aires
+#93 Rocco Cafe,Café de especialidad en Santa Cruz.,-50.342552,-72.265531,,93,Santa Cruz
+#94 Ficus,Cafetería de especialidad en Santa Fe.,-31.628057,-60.703671,,94,Santa Fe
+#95 Café Copado,Café de especialidad en Mendoza.,-32.891058,-68.838771,,95,Mendoza
+#96 Garden Coffee,Cafetería de especialidad en Santa Fe.,-31.6373,-60.706928,,96,Santa Fe
+#97 Aste Café Con Pasión,Café de especialidad en Córdoba.,-31.411707,-64.186154,,97,Córdoba
+#98 Casa Pina,Café de especialidad en Buenos Aires.,-34.581935,-58.42534,,98,Buenos Aires
+#99 Florian,Café de especialidad en Buenos Aires.,-34.601863,-58.386035,,99,Buenos Aires
+#100 Habitat,Café de especialidad en Mendoza.,-32.887585,-68.840538,,100,Mendoza

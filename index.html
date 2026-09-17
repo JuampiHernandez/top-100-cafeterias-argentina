@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" id="theme-color" content="#1a120b" />
+  <title>Top 100 Cafeterías · Argentina 2026</title>
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem("cafe-theme");
+        var theme = saved === "light" || saved === "dark"
+          ? saved
+          : (window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+        document.documentElement.dataset.theme = theme;
+        var meta = document.getElementById("theme-color");
+        if (meta) meta.content = theme === "light" ? "#f4efe6" : "#1a120b";
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css?v=14" />
+</head>
+<body>
+  <div class="app" id="app">
+    <div class="sidebar-backdrop" id="sidebar-backdrop"></div>
+
+    <aside class="sidebar" id="sidebar">
+      <header class="sidebar-header">
+        <div class="sidebar-title-row">
+          <div>
+            <p class="eyebrow">The Best Coffee Shops</p>
+            <h1>Top 100<br />cafeterías<br />de Argentina</h1>
+          </div>
+          <div class="sidebar-tools">
+            <button type="button" class="icon-btn theme-toggle" id="theme-toggle-side" aria-label="Cambiar a modo claro">
+              <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+                <circle cx="12" cy="12" r="4" />
+                <path stroke-linecap="round" d="M12 3v1.5M12 19.5V21M4.9 4.9l1.1 1.1M18 18l1.1 1.1M3 12h1.5M19.5 12H21M4.9 19.1l1.1-1.1M18 6l1.1-1.1" />
+              </svg>
+              <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 13.2A6.5 6.5 0 0 1 10.8 7.4 6.2 6.2 0 1 0 16.5 13.2Z" />
+              </svg>
+            </button>
+            <button type="button" class="icon-btn sidebar-close" id="sidebar-close" aria-label="Cerrar lista">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+                <path stroke-linecap="round" d="M6 6l12 12M18 6L6 18" />
+              </svg>
+            </button>
+          </div>
+        </div>
+        <p class="lede">
+          app by <a href="https://www.instagram.com/juampihernandezz/" target="_blank" rel="noopener">Juampi</a>
+        </p>
+        <label class="search">
+          <span class="sr-only">Buscar</span>
+          <input id="search" type="search" placeholder="Buscar por nombre o ciudad…" autocomplete="off" />
+        </label>
+        <div class="filters" id="filters">
+          <button type="button" class="chip active" data-filter="all">Todas</button>
+          <button type="button" class="chip" data-filter="top10">Top 10</button>
+        </div>
+      </header>
+      <ul class="cafe-list" id="cafe-list"></ul>
+      <footer class="sidebar-foot">
+        <a class="cta-maps" id="cta-maps-side" href="https://www.google.com/maps/d/viewer?mid=1pUqvaY14U5fnqR134ZVkn2HI4WTyodo" target="_blank" rel="noopener">
+          Abrir en Google Maps
+        </a>
+        <p>Fuente: Clarín / La Nación · Best Coffee Shops Argentina 2026</p>
+      </footer>
+    </aside>
+
+    <main class="map-pane">
+      <div id="map"></div>
+      <div class="map-actions">
+        <button type="button" class="icon-btn toggle-sidebar" id="toggle-sidebar" aria-label="Abrir lista" aria-controls="sidebar" aria-expanded="false">
+          <span class="burger" aria-hidden="true"><span></span><span></span><span></span></span>
+        </button>
+        <button type="button" class="icon-btn theme-toggle map-theme" id="theme-toggle" aria-label="Cambiar a modo claro">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <circle cx="12" cy="12" r="4" />
+            <path stroke-linecap="round" d="M12 3v1.5M12 19.5V21M4.9 4.9l1.1 1.1M18 18l1.1 1.1M3 12h1.5M19.5 12H21M4.9 19.1l1.1-1.1M18 6l1.1-1.1" />
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 13.2A6.5 6.5 0 0 1 10.8 7.4 6.2 6.2 0 1 0 16.5 13.2Z" />
+          </svg>
+        </button>
+      </div>
+      <div class="map-legend">
+        <span class="dot gold"></span> Top 10
+        <span class="dot cream"></span> 11–100
+      </div>
+      <a class="cta-maps map-cta" id="cta-maps" href="https://www.google.com/maps/d/viewer?mid=1pUqvaY14U5fnqR134ZVkn2HI4WTyodo" target="_blank" rel="noopener">
+        Abrir en Google Maps
+      </a>
+    </main>
+
+    <section class="detail" id="detail" hidden>
+      <div class="detail-handle" aria-hidden="true"></div>
+      <button type="button" class="detail-close" id="detail-close" aria-label="Cerrar">×</button>
+      <div class="detail-media">
+        <img id="detail-image" alt="" />
+        <span class="detail-rank" id="detail-rank"></span>
+      </div>
+      <div class="detail-body">
+        <h2 id="detail-name"></h2>
+        <p class="detail-loc" id="detail-loc"></p>
+        <p class="detail-desc" id="detail-desc"></p>
+        <div class="detail-links">
+          <a class="detail-ig" id="detail-ig" hidden target="_blank" rel="noopener">Instagram →</a>
+          <a class="detail-maps" id="detail-maps" target="_blank" rel="noopener">Abrir en Google Maps →</a>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js?v=14"></script>
+</body>
+</html>
