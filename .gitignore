@@ -4,4 +4,6 @@
 .vercel
 .cursor
 .firecrawl
+__pycache__/
+*.pyc
 *.log

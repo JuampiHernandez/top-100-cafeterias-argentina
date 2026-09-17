@@ -119,15 +119,11 @@ function matchesFilter(cafe) {
 }
 
 function hasPrecisePin(cafe) {
-  if (cafe.precise === true) return true;
-  if (cafe.precise === false) return false;
-  return cafe.geocodeSource === "curated" || cafe.geocodeSource === "nominatim" || cafe.geocodeSource === "verified";
+  return Number.isFinite(cafe.lat) && Number.isFinite(cafe.lng);
 }
 
 function showsOnMap(cafe) {
-  if (hasPrecisePin(cafe)) return true;
-  const neighborhood = (cafe.neighborhood || "").trim().toUpperCase();
-  return neighborhood !== "" && neighborhood !== "CABA";
+  return hasPrecisePin(cafe);
 }
 
 function escapeHtml(value) {
@@ -148,6 +144,9 @@ function displayPlace(cafe) {
 }
 
 function mapsUrl(cafe) {
+  if (Number.isFinite(cafe.lat) && Number.isFinite(cafe.lng)) {
+    return `https://www.google.com/maps/search/?api=1&query=${cafe.lat},${cafe.lng}`;
+  }
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
     `${cafe.name} ${displayPlace(cafe)} Argentina`
   )}`;
@@ -360,9 +359,7 @@ function renderList() {
           <div class="cafe-meta">
             <span class="cafe-rank">#${cafe.rank}</span>
             <p class="cafe-name">${escapeHtml(cafe.name)}</p>
-            <p class="cafe-loc">${escapeHtml(cafe.location)}${
-              showsOnMap(cafe) ? "" : " · sin pin exacto"
-            }</p>
+            <p class="cafe-loc">${escapeHtml(cafe.location)}</p>
           </div>
         </div>
         <div class="cafe-extra">
@@ -370,11 +367,7 @@ function renderList() {
           <div class="cafe-extra-links">
             ${ig}
             <a href="${mapsUrl(cafe)}" target="_blank" rel="noopener">Google Maps</a>
-            ${
-              showsOnMap(cafe)
-                ? `<button type="button" class="cafe-show-map">Ver en el mapa</button>`
-                : `<span class="cafe-approx">Aún no hay dirección publicada: no la marcamos en el centro para no inventar un racimo.</span>`
-            }
+            <button type="button" class="cafe-show-map">Ver en el mapa</button>
           </div>
         </div>
       </li>`;

@@ -1,0 +1,197 @@
+{
+  "comment": "Street-level locations looked up from official sites, press, and Google Maps business listings for every Top 100 name that was still on a city centroid.",
+  "places": {
+    "4": {
+      "address": "Costa Rica 5722, Palermo Hollywood",
+      "neighborhood": "Palermo Hollywood",
+      "province": "CABA",
+      "query": "Costa Rica 5722, Palermo, Buenos Aires, Argentina"
+    },
+    "5": {
+      "address": "Av. Jorge Newbery 3898, Chacarita",
+      "neighborhood": "Chacarita",
+      "province": "CABA",
+      "query": "Avenida Jorge Newbery 3898, Chacarita, Buenos Aires, Argentina"
+    },
+    "13": {
+      "address": "Jujuy 2581, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Jujuy 2581, Rosario, Santa Fe, Argentina"
+    },
+    "14": {
+      "address": "Santiago 601, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Santiago 601, Rosario, Santa Fe, Argentina"
+    },
+    "18": {
+      "address": "Luis José de Tejeda 4242, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Luis Jose de Tejeda 4242, Córdoba, Argentina"
+    },
+    "23": {
+      "address": "Tucumán 1226, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Tucumán 1226, Rosario, Santa Fe, Argentina"
+    },
+    "30": {
+      "address": "Gral. Alvear 352, Martínez",
+      "neighborhood": "Martínez",
+      "province": "Buenos Aires",
+      "query": "General Alvear 352, Martínez, Buenos Aires, Argentina"
+    },
+    "34": {
+      "address": "Alberti 2965, Mar del Plata",
+      "neighborhood": "Mar del Plata",
+      "province": "Buenos Aires",
+      "query": "Alberti 2965, Mar del Plata, Buenos Aires, Argentina"
+    },
+    "41": {
+      "address": "Calle 13 B 421, City Bell",
+      "neighborhood": "City Bell",
+      "province": "Buenos Aires",
+      "query": "Calle 13 B 421, City Bell, Buenos Aires, Argentina"
+    },
+    "42": {
+      "address": "Moldes 653, Colegiales",
+      "neighborhood": "Colegiales",
+      "province": "CABA",
+      "query": "Moldes 653, Colegiales, Buenos Aires, Argentina"
+    },
+    "43": {
+      "address": "Zapiola 2402, Belgrano",
+      "neighborhood": "Belgrano",
+      "province": "CABA",
+      "query": "Zapiola 2402, Belgrano, Buenos Aires, Argentina"
+    },
+    "44": {
+      "address": "Castelli 1281, Mar del Plata",
+      "neighborhood": "Mar del Plata",
+      "province": "Buenos Aires",
+      "query": "Castelli 1281, Mar del Plata, Buenos Aires, Argentina"
+    },
+    "47": {
+      "address": "Belgrano 884, Paseo Caribú, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Belgrano 884, Córdoba, Argentina"
+    },
+    "48": {
+      "address": "San Juan 661, Corrientes",
+      "neighborhood": "Corrientes",
+      "province": "Corrientes",
+      "query": "San Juan 661, Corrientes, Argentina"
+    },
+    "49": {
+      "address": "Av. Díaz Vélez 4674, Caballito",
+      "neighborhood": "Caballito",
+      "province": "CABA",
+      "query": "Avenida Díaz Vélez 4674, Buenos Aires, Argentina"
+    },
+    "50": {
+      "address": "Tucumán 1932, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Tucumán 1932, Rosario, Santa Fe, Argentina"
+    },
+    "51": {
+      "address": "Av. Hipólito Yrigoyen 398, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Avenida Hipólito Yrigoyen 398, Córdoba, Argentina"
+    },
+    "52": {
+      "address": "Bragado 6180, Wilde",
+      "neighborhood": "Wilde",
+      "province": "Buenos Aires",
+      "query": "Bragado 6180, Wilde, Buenos Aires, Argentina"
+    },
+    "53": {
+      "address": "Av. San Martín 688, General Pico",
+      "neighborhood": "General Pico",
+      "province": "La Pampa",
+      "query": "Avenida San Martín 688, General Pico, La Pampa, Argentina"
+    },
+    "59": {
+      "address": "José Manuel Estrada 2591, Olivos",
+      "neighborhood": "Olivos",
+      "province": "Buenos Aires",
+      "query": "José Manuel Estrada 2591, Olivos, Buenos Aires, Argentina"
+    },
+    "60": {
+      "address": "Ricardo Arbilla 86, El Chaltén",
+      "neighborhood": "El Chaltén",
+      "province": "Santa Cruz",
+      "query": "Ricardo Arbilla 86, El Chaltén, Santa Cruz, Argentina"
+    },
+    "63": {
+      "address": "Gral. Carlos María de Alvear 897, Lomas de Zamora",
+      "neighborhood": "Lomas de Zamora",
+      "province": "Buenos Aires",
+      "query": "General Carlos María de Alvear 897, Lomas de Zamora, Buenos Aires, Argentina"
+    },
+    "64": {
+      "address": "Rivadavia 2563, Santa Fe",
+      "neighborhood": "Santa Fe",
+      "province": "Santa Fe",
+      "query": "Rivadavia 2563, Santa Fe, Argentina"
+    },
+    "67": {
+      "address": "Las Macluras 6627, Santa Fe",
+      "neighborhood": "Santa Fe",
+      "province": "Santa Fe",
+      "query": "Las Macluras 6627, Santa Fe, Argentina"
+    },
+    "72": {
+      "address": "Calle 21 1498, Miramar",
+      "neighborhood": "Miramar",
+      "province": "Buenos Aires",
+      "query": "Calle 21 1498, Miramar, Buenos Aires, Argentina"
+    },
+    "76": {
+      "address": "Ayacucho 361, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Ayacucho 361, Córdoba, Argentina"
+    },
+    "78": {
+      "address": "Nicolás Avellaneda 9, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Nicolás Avellaneda 9, Mendoza, Argentina"
+    },
+    "79": {
+      "address": "Av. Carballo 174, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Avenida Carballo 174, Rosario, Santa Fe, Argentina"
+    },
+    "89": {
+      "address": "Belgrano 867, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Belgrano 867, Córdoba, Argentina"
+    },
+    "95": {
+      "address": "Paso de los Andes 1420, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Paso de los Andes 1420, Mendoza, Argentina"
+    },
+    "96": {
+      "address": "Paseo de las Acacias, Santo Tomé",
+      "neighborhood": "Santo Tomé",
+      "province": "Santa Fe",
+      "query": "Paseo de las Acacias, Santo Tomé, Santa Fe, Argentina"
+    },
+    "100": {
+      "address": "Prado Español, Parque General San Martín, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Prado Español, Parque General San Martín, Mendoza, Argentina"
+    }
+  }
+}

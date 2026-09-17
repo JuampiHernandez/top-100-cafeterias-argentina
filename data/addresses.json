@@ -1,5 +1,5 @@
 {
-  "comment": "Street-level locations verified against official sites, Instagram bios, and press. Used to replace CABA-centroid jitter that stacked dozens of pins on Microcentro.",
+  "comment": "Street-level locations looked up from official sites, press, and Google Maps business listings so every Top 100 cafe can appear on the map.",
   "places": {
     "3": {
       "address": "Pierina Dealessi 1350, Puerto Madero",
@@ -116,10 +116,7 @@
       "query": "Edificio Kavanagh, Florida, Buenos Aires, Argentina",
       "lat": -34.59535,
       "lng": -58.37455,
-      "display": "Edificio Kavanagh, Florida 1045, Retiro",
-      "lat": -34.603349,
-      "lng": -58.374562,
-      "display": "Florida, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAS, Argentina"
+      "display": "Edificio Kavanagh, Florida 1045, Retiro"
     },
     "40": {
       "address": "Humboldt 1542, Palermo Hollywood",
@@ -264,6 +261,326 @@
       "lat": -34.599041,
       "lng": -58.513653,
       "display": "4089, Pareja, Villa Devoto, Buenos Aires, Comuna 11, Ciudad Autónoma de Buenos Aires, C1419GGI, Argentina"
+    },
+    "4": {
+      "address": "Costa Rica 5722, Palermo Hollywood",
+      "neighborhood": "Palermo Hollywood",
+      "province": "CABA",
+      "query": "Costa Rica 5722, Palermo, Buenos Aires, Argentina",
+      "lat": -34.581681,
+      "lng": -58.435909,
+      "display": "vive cafe, 5722, Costa Rica, Palermo Hollywood, Palermo, Buenos Aires, Distrito Audiovisual, Comuna 14, Ciudad Autónoma de Buenos Aires, C1414BTH, Argentina"
+    },
+    "5": {
+      "address": "Av. Jorge Newbery 3898, Chacarita",
+      "neighborhood": "Chacarita",
+      "province": "CABA",
+      "query": "Avenida Jorge Newbery 3898, Chacarita, Buenos Aires, Argentina",
+      "lat": -34.586889,
+      "lng": -58.450028,
+      "display": "Cuervo Café Chacarita, 3898, Avenida Jorge Newbery, Chacarita, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Autónoma de Buenos Aires, C1427EGR, Argentina"
+    },
+    "13": {
+      "address": "Jujuy 2581, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Jujuy 2581, Rosario, Santa Fe, Argentina",
+      "lat": -32.934665,
+      "lng": -60.656318,
+      "display": "2581, Jujuy, Área Comercial Pichincha II, Alberto Olmedo, Distrito Centro, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, 2000, Argentina"
+    },
+    "14": {
+      "address": "Santiago 601, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Santiago 601, Rosario, Santa Fe, Argentina",
+      "lat": -32.941052,
+      "lng": -60.655365,
+      "display": "601, Santiago, Alberto Olmedo, Distrito Centro, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, 2000, Argentina"
+    },
+    "18": {
+      "address": "Luis José de Tejeda 4242, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Luis Jose de Tejeda 4242, Córdoba, Argentina",
+      "lat": -31.370108,
+      "lng": -64.234144,
+      "display": "Casa Cortez, 4242, Luis José de Tejeda, Cerro de las Rosas, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5009, Argentina"
+    },
+    "23": {
+      "address": "Tucumán 1226, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Tucumán 1226, Rosario, Santa Fe, Argentina",
+      "lat": -32.941443,
+      "lng": -60.638764,
+      "display": "1226, Tucumán, Martin, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, 2000, Argentina"
+    },
+    "30": {
+      "address": "Gral. Alvear 352, Martínez",
+      "neighborhood": "Martínez",
+      "province": "Buenos Aires",
+      "query": "General Alvear 352, Martínez, Buenos Aires, Argentina",
+      "lat": -34.487527,
+      "lng": -58.496691,
+      "display": "352, General Alvear, Martínez, Partido de San Isidro, Buenos Aires, 1640, Argentina"
+    },
+    "34": {
+      "address": "Alberti 2965, Mar del Plata",
+      "neighborhood": "Mar del Plata",
+      "province": "Buenos Aires",
+      "query": "Alberti 2965, Mar del Plata, Buenos Aires, Argentina",
+      "lat": -38.004779,
+      "lng": -57.556285,
+      "display": "2965, Alberti, Centro, Plaza Peralta Ramos, Mar del Plata, Partido de General Pueyrredón, Buenos Aires, 7606, Argentina"
+    },
+    "41": {
+      "address": "Calle 13 B 421, City Bell",
+      "neighborhood": "City Bell",
+      "province": "Buenos Aires",
+      "query": "Calle 13 B 421, City Bell, Buenos Aires, Argentina",
+      "lat": -34.873458,
+      "lng": -58.049124,
+      "display": "Calle 472, City Bell, Partido de La Plata, Buenos Aires, 1896, Argentina"
+    },
+    "42": {
+      "address": "Moldes 653, Colegiales",
+      "neighborhood": "Colegiales",
+      "province": "CABA",
+      "query": "Moldes 653, Colegiales, Buenos Aires, Argentina",
+      "lat": -34.572543,
+      "lng": -58.447075,
+      "display": "653, Moldes, Colegiales, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1426CQO, Argentina"
+    },
+    "43": {
+      "address": "Zapiola 2402, Belgrano",
+      "neighborhood": "Belgrano",
+      "province": "CABA",
+      "query": "Zapiola 2402, Belgrano, Buenos Aires, Argentina",
+      "lat": -34.563134,
+      "lng": -58.46592,
+      "display": "2402, Zapiola, Belgrano, Buenos Aires, Comuna 13, Ciudad Autónoma de Buenos Aires, C1428DIN, Argentina"
+    },
+    "44": {
+      "address": "Castelli 1281, Mar del Plata",
+      "neighborhood": "Mar del Plata",
+      "province": "Buenos Aires",
+      "query": "Castelli 1281, Mar del Plata, Buenos Aires, Argentina",
+      "lat": -38.015674,
+      "lng": -57.541327,
+      "display": "1281, Castelli, Lomas de Stella Maris, Mar del Plata, Partido de General Pueyrredón, Buenos Aires, B7600FDW, Argentina"
+    },
+    "47": {
+      "address": "Belgrano 884, Paseo Caribú, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Belgrano 884, Córdoba, Argentina",
+      "lat": -31.425109,
+      "lng": -64.192633,
+      "display": "884, Belgrano, Güemes, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+    },
+    "48": {
+      "address": "San Juan 661, Corrientes",
+      "neighborhood": "Corrientes",
+      "province": "Corrientes",
+      "query": "San Juan 661, Corrientes, Argentina",
+      "lat": -27.464914,
+      "lng": -58.836432,
+      "display": "661, San Juan, Barrio La Rosada, Seccional 1°, Corrientes, Departamento Capital, Corrientes, 3400, Argentina"
+    },
+    "49": {
+      "address": "Av. Díaz Vélez 4674, Caballito",
+      "neighborhood": "Caballito",
+      "province": "CABA",
+      "query": "Avenida Díaz Vélez 4674, Buenos Aires, Argentina",
+      "lat": -34.608836,
+      "lng": -58.432458,
+      "display": "4674, Avenida Díaz Vélez, Caballito, Buenos Aires, Comuna 6, Ciudad Autónoma de Buenos Aires, C1405DCA, Argentina"
+    },
+    "50": {
+      "address": "Tucumán 1932, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Tucumán 1932, Rosario, Santa Fe, Argentina",
+      "lat": -32.939659,
+      "lng": -60.648506,
+      "display": "1932, Tucumán, Martin, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, 2000, Argentina"
+    },
+    "51": {
+      "address": "Av. Hipólito Yrigoyen 398, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Avenida Hipólito Yrigoyen 398, Córdoba, Argentina",
+      "lat": -31.42598,
+      "lng": -64.186201,
+      "display": "398, Avenida Hipólito Yrigoyen, Nueva Córdoba, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+    },
+    "52": {
+      "address": "Bragado 6180, Wilde",
+      "neighborhood": "Wilde",
+      "province": "Buenos Aires",
+      "query": "Bragado 6180, Wilde, Buenos Aires, Argentina",
+      "lat": -34.700893,
+      "lng": -58.314559,
+      "display": "6180, Bragado, Villa Barilari, Wilde, Partido de Avellaneda, Buenos Aires, 1875, Argentina"
+    },
+    "53": {
+      "address": "Av. San Martín 688, General Pico",
+      "neighborhood": "General Pico",
+      "province": "La Pampa",
+      "query": "Avenida San Martín 688, General Pico, La Pampa, Argentina",
+      "lat": -35.650399,
+      "lng": -63.768127,
+      "display": "688, Avenida General José de San Martín Norte, Norte, General Pico, Municipio de General Pico, Departamento Maracó, La Pampa, 6360, Argentina"
+    },
+    "59": {
+      "address": "José Manuel Estrada 2591, Olivos",
+      "neighborhood": "Olivos",
+      "province": "Buenos Aires",
+      "query": "José Manuel Estrada 2591, Olivos, Buenos Aires, Argentina",
+      "lat": -34.507992,
+      "lng": -58.488677,
+      "display": "José Manuel de Estrada, Olivos, Partido de Vicente López, Buenos Aires, B1636AAV, Argentina"
+    },
+    "60": {
+      "address": "Ricardo Arbilla 86, El Chaltén",
+      "neighborhood": "El Chaltén",
+      "province": "Santa Cruz",
+      "query": "Ricardo Arbilla 86, El Chaltén, Santa Cruz, Argentina",
+      "lat": -49.330487,
+      "lng": -72.889883,
+      "display": "86, Ricardo Arbilla, El Chaltén, Municipio de El Chaltén, Lago Argentino, Santa Cruz, Z9304, Argentina"
+    },
+    "63": {
+      "address": "Gral. Carlos María de Alvear 897, Lomas de Zamora",
+      "neighborhood": "Lomas de Zamora",
+      "province": "Buenos Aires",
+      "query": "General Carlos María de Alvear 897, Lomas de Zamora, Buenos Aires, Argentina",
+      "lat": -34.749077,
+      "lng": -58.406084,
+      "display": "897, General Carlos María de Alvear, Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina"
+    },
+    "64": {
+      "address": "Rivadavia 2563, Santa Fe",
+      "neighborhood": "Santa Fe",
+      "province": "Santa Fe",
+      "query": "Rivadavia 2563, Santa Fe de la Vera Cruz, Argentina",
+      "lat": -31.646545,
+      "lng": -60.704573,
+      "display": "2563, Rivadavia, Fátima, Puerto General San Martín, Municipio de Puerto General San Martín, Gran Rosario, Departamento San Lorenzo, Santa Fe, 2202, Argentina"
+    },
+    "67": {
+      "address": "Las Macluras 6627, Santa Fe",
+      "neighborhood": "Santa Fe",
+      "province": "Santa Fe",
+      "query": "Las Macluras 6627, Santa Fe, Argentina",
+      "lat": -31.625521,
+      "lng": -60.596821,
+      "display": "Las Macluras, Colastiné, Colastiné Norte, Santa Fe Capital, Departamento La Capital, Santa Fe, S3000, Argentina"
+    },
+    "72": {
+      "address": "Calle 21 1498, Miramar",
+      "neighborhood": "Miramar",
+      "province": "Buenos Aires",
+      "query": "Calle 21 1498, Miramar, Buenos Aires, Argentina",
+      "lat": -38.268509,
+      "lng": -57.840584,
+      "display": "1498, Calle 21, Centro - Zona 2, Miramar, Partido de General Alvarado, Buenos Aires, B7607GAQ, Argentina"
+    },
+    "76": {
+      "address": "Ayacucho 361, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Ayacucho 361, Córdoba, Argentina",
+      "lat": -31.418737,
+      "lng": -64.191115,
+      "display": "361, Ayacucho, Centro, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+    },
+    "78": {
+      "address": "Nicolás Avellaneda 9, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Nicolás Avellaneda 9, Mendoza, Argentina",
+      "lat": -32.886426,
+      "lng": -68.849564,
+      "display": "9, Nicolás Avellaneda, Ciudad de Mendoza, Sección 5ª Residencial Sur, Departamento Capital, Mendoza, 5500, Argentina"
+    },
+    "79": {
+      "address": "Av. Carballo 174, Rosario",
+      "neighborhood": "Rosario",
+      "province": "Santa Fe",
+      "query": "Avenida Carballo 174, Rosario, Santa Fe, Argentina",
+      "lat": -32.922264,
+      "lng": -60.685221,
+      "display": "Avenida Doctor Luis Cándido Carballo, Islas Malvinas, Distrito Norte, Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, S2000, Argentina"
+    },
+    "89": {
+      "address": "Belgrano 867, Córdoba",
+      "neighborhood": "Córdoba",
+      "province": "Córdoba",
+      "query": "Belgrano 867, Córdoba, Argentina",
+      "lat": -31.424969,
+      "lng": -64.192408,
+      "display": "867, Belgrano, Güemes, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+    },
+    "95": {
+      "address": "Paso de los Andes 1420, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Paso de los Andes 1420, Mendoza, Argentina",
+      "lat": -32.883235,
+      "lng": -68.858776,
+      "display": "1420, Paso de los Andes, Ciudad de Mendoza, Sección 5ª Residencial Sur, Departamento Capital, Mendoza, 5500, Argentina"
+    },
+    "96": {
+      "address": "Paseo de las Acacias, Santo Tomé",
+      "neighborhood": "Santo Tomé",
+      "province": "Santa Fe",
+      "query": "Paseo de las Acacias, Santo Tomé, Santa Fe, Argentina",
+      "lat": -31.629311,
+      "lng": -60.774791,
+      "display": "Paseo de Las Acacias, Municipio de Santo Tomé, Departamento La Capital, Santa Fe, Argentina"
+    },
+    "100": {
+      "address": "Prado Español, Parque General San Martín, Mendoza",
+      "neighborhood": "Mendoza",
+      "province": "Mendoza",
+      "query": "Prado Español, Parque General San Martín, Mendoza, Argentina",
+      "lat": -32.896787,
+      "lng": -68.866509,
+      "display": "Prado Español, Ciudad de Mendoza, Sección 9ª Parque General San Martín, Departamento Capital, Mendoza, Argentina"
+    },
+    "74": {
+      "address": "Las Heras 485, Villa Carlos Paz",
+      "neighborhood": "Villa Carlos Paz",
+      "province": "Córdoba",
+      "query": "Las Heras 485, Villa Carlos Paz, Córdoba, Argentina",
+      "lat": -31.422144,
+      "lng": -64.500284
+    },
+    "77": {
+      "address": "López y Planes 521, Resistencia",
+      "neighborhood": "Resistencia",
+      "province": "Chaco",
+      "query": "López y Planes 521, Resistencia, Chaco, Argentina",
+      "lat": -27.449247,
+      "lng": -58.979334
+    },
+    "91": {
+      "address": "Del Bono entre Juana Manso y Cornelio Saavedra, San Juan",
+      "neighborhood": "San Juan",
+      "province": "San Juan",
+      "query": "Juana Manso, San Juan, Argentina",
+      "lat": -31.53324,
+      "lng": -68.563127
+    },
+    "97": {
+      "address": "Ituzaingó 904, Nueva Córdoba",
+      "neighborhood": "Nueva Córdoba",
+      "province": "Córdoba",
+      "query": "Ituzaingó 904, Nueva Córdoba, Córdoba, Argentina",
+      "lat": -31.427538,
+      "lng": -64.18598
     }
   }
 }

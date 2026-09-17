@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build cafe dataset with curated + centroid coordinates (offline-friendly).
 
-After this, run apply_addresses.py so CABA pins use street addresses
-instead of jitter around Plaza de Mayo.
+After this, run apply_lookups.py so every Top 100 cafe uses a looked-up
+street or named-place pin instead of a city centroid.
 """
 
 import json

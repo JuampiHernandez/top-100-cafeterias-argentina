@@ -55,15 +55,15 @@
     {
       "rank": 4,
       "name": "Vive Café",
-      "neighborhood": "Palermo",
+      "neighborhood": "Palermo Hollywood",
       "province": "CABA",
-      "location": "Palermo, Buenos Aires",
-      "address": "Palermo Hollywood y Villa Ortúzar",
-      "lat": -34.5815,
-      "lng": -58.432,
+      "location": "Palermo Hollywood, Buenos Aires",
+      "address": "Costa Rica 5722, Palermo Hollywood",
+      "lat": -34.581681,
+      "lng": -58.435909,
       "image": "https://www.lanacion.com.ar/resizer/v2/vive-NSCMGRGWXJGXLAIWN4ZQCPCZ5I.jpeg?auth=c76aa734478db58cfeb8fe7ab8a9da0f59827cb5fd814f1656334df0f9edaf07&width=800&height=600&quality=80&smart=true",
       "description": "Tuestan y perfilan café de distintos orígenes, en filtrados y espresso. Dos locales: Palermo Hollywood y Villa Ortúzar.",
-      "geocodeSource": "curated",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/vivecafe/",
       "precise": true
     },
@@ -73,12 +73,12 @@
       "neighborhood": "Chacarita",
       "province": "CABA",
       "location": "Chacarita, Buenos Aires",
-      "address": "Chacarita, CABA",
-      "lat": -34.5885,
-      "lng": -58.452,
+      "address": "Av. Jorge Newbery 3898, Chacarita",
+      "lat": -34.586889,
+      "lng": -58.450028,
       "image": "https://www.lanacion.com.ar/resizer/v2/cuervo-se-ubico-en-el-quinto-QNTRC7ANQNDNPAIS7B2UCULCGY.jpeg?auth=2fe726ccd9291c68b4dc8c228724514803fdc9b7776ed9964a6b0b09123b1a8f&width=800&height=600&quality=80&smart=true",
       "description": "Arrancaron en 2016 Agustín Caro y Pablo Tokatlian. Tuestan granos que importan de distintos orígenes y hoy también tienen heladería.",
-      "geocodeSource": "curated",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/cuervocafe/",
       "precise": true
     },
@@ -192,14 +192,14 @@
       "neighborhood": "Rosario",
       "province": "Santa Fe",
       "location": "Rosario, Santa Fe",
-      "address": "Rosario, Santa Fe",
-      "lat": -32.935609,
-      "lng": -60.652405,
+      "address": "Jujuy 2581, Rosario",
+      "lat": -32.934665,
+      "lng": -60.656318,
       "image": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=800&q=80",
       "description": "Tostadero y cafetería en su fábrica de Rosario. Podés almorzar mirando cómo tuestan.",
-      "geocodeSource": "centroid",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/ruffocoffee/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 14,
@@ -207,14 +207,14 @@
       "neighborhood": "Rosario",
       "province": "Santa Fe",
       "location": "Rosario, Santa Fe",
-      "address": "Rosario, Santa Fe",
-      "lat": -32.946494,
-      "lng": -60.647223,
+      "address": "Santiago 601, Rosario",
+      "lat": -32.941052,
+      "lng": -60.655365,
       "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
       "description": "Laboratorio de café de especialidad en Rosario, el proyecto formativo de Juju Parera.",
-      "geocodeSource": "centroid",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/labdejuju/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 15,
@@ -244,7 +244,7 @@
       "description": "Coffee lab en Buenos Aires. Más laboratorio de extracciones que cafetería de paso.",
       "geocodeSource": "centroid",
       "instagram": "https://www.instagram.com/standalone.lab/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 17,
@@ -266,13 +266,13 @@
       "neighborhood": "Córdoba",
       "province": "Córdoba",
       "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.415009,
-      "lng": -64.193891,
+      "address": "Luis José de Tejeda 4242, Córdoba",
+      "lat": -31.370108,
+      "lng": -64.234144,
       "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 19,
@@ -338,13 +338,13 @@
       "neighborhood": "Rosario",
       "province": "Santa Fe",
       "location": "Rosario, Santa Fe",
-      "address": "Rosario, Santa Fe",
-      "lat": -32.942988,
-      "lng": -60.655967,
+      "address": "Tucumán 1226, Rosario",
+      "lat": -32.941443,
+      "lng": -60.638764,
       "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Rosario.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 24,
@@ -389,7 +389,7 @@
       "description": "Café de especialidad en Buenos Aires.",
       "geocodeSource": "centroid",
       "instagram": "https://www.instagram.com/ostiacafe/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 27,
@@ -440,13 +440,13 @@
       "neighborhood": "Martínez",
       "province": "Buenos Aires",
       "location": "Martínez, Buenos Aires",
-      "address": "Martínez, Buenos Aires",
-      "lat": -34.493409,
-      "lng": -58.506551,
+      "address": "Gral. Alvear 352, Martínez",
+      "lat": -34.487527,
+      "lng": -58.496691,
       "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Martínez, Zona Norte.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 31,
@@ -496,13 +496,13 @@
       "neighborhood": "Mar del Plata",
       "province": "Buenos Aires",
       "location": "Mar del Plata, Buenos Aires",
-      "address": "Mar del Plata, Buenos Aires",
-      "lat": -37.996733,
-      "lng": -57.543367,
+      "address": "Alberti 2965, Mar del Plata",
+      "lat": -38.004779,
+      "lng": -57.556285,
       "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Mar del Plata.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 35,
@@ -596,41 +596,41 @@
       "neighborhood": "City Bell",
       "province": "Buenos Aires",
       "location": "City Bell, Buenos Aires",
-      "address": "City Bell, Buenos Aires",
-      "lat": -34.872728,
-      "lng": -58.052422,
+      "address": "Calle 13 B 421, City Bell",
+      "lat": -34.873458,
+      "lng": -58.049124,
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en City Bell.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 42,
       "name": "Sosa Café",
-      "neighborhood": "CABA",
+      "neighborhood": "Colegiales",
       "province": "CABA",
-      "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.599836,
-      "lng": -58.380565,
+      "location": "Colegiales, Buenos Aires",
+      "address": "Moldes 653, Colegiales",
+      "lat": -34.572543,
+      "lng": -58.447075,
       "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 43,
       "name": "Fomento Café",
-      "neighborhood": "CABA",
+      "neighborhood": "Belgrano",
       "province": "CABA",
-      "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.607958,
-      "lng": -58.379384,
+      "location": "Belgrano, Buenos Aires",
+      "address": "Zapiola 2402, Belgrano",
+      "lat": -34.563134,
+      "lng": -58.46592,
       "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 44,
@@ -638,14 +638,14 @@
       "neighborhood": "Mar del Plata",
       "province": "Buenos Aires",
       "location": "Mar del Plata, Buenos Aires",
-      "address": "Mar del Plata, Buenos Aires",
-      "lat": -38.003585,
-      "lng": -57.547862,
+      "address": "Castelli 1281, Mar del Plata",
+      "lat": -38.015674,
+      "lng": -57.541327,
       "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Mar del Plata. Tienen dos locales: Castelli 1281 y San Luis 3031.",
-      "geocodeSource": "centroid",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/greenmug.coffee/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 45,
@@ -682,13 +682,13 @@
       "neighborhood": "Córdoba",
       "province": "Córdoba",
       "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.41247,
-      "lng": -64.191206,
+      "address": "Belgrano 884, Paseo Caribú, Córdoba",
+      "lat": -31.425109,
+      "lng": -64.192633,
       "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 48,
@@ -696,27 +696,27 @@
       "neighborhood": "Corrientes",
       "province": "Corrientes",
       "location": "Corrientes",
-      "address": "Corrientes, Corrientes",
-      "lat": -27.4736,
-      "lng": -58.822979,
+      "address": "San Juan 661, Corrientes",
+      "lat": -27.464914,
+      "lng": -58.836432,
       "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Corrientes.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 49,
       "name": "Traje Café",
-      "neighborhood": "CABA",
+      "neighborhood": "Caballito",
       "province": "CABA",
-      "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.604566,
-      "lng": -58.385505,
+      "location": "Caballito, Buenos Aires",
+      "address": "Av. Díaz Vélez 4674, Caballito",
+      "lat": -34.608836,
+      "lng": -58.432458,
       "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 50,
@@ -724,14 +724,14 @@
       "neighborhood": "Rosario",
       "province": "Santa Fe",
       "location": "Rosario, Santa Fe",
-      "address": "Rosario, Santa Fe",
-      "lat": -32.940268,
-      "lng": -60.647747,
+      "address": "Tucumán 1932, Rosario",
+      "lat": -32.939659,
+      "lng": -60.648506,
       "image": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&w=800&q=80",
       "description": "La primera cafetería de especialidad de Rosario, abierta desde 2018.",
-      "geocodeSource": "centroid",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/artocafe/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 51,
@@ -739,13 +739,13 @@
       "neighborhood": "Córdoba",
       "province": "Córdoba",
       "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.425652,
-      "lng": -64.188069,
+      "address": "Av. Hipólito Yrigoyen 398, Córdoba",
+      "lat": -31.42598,
+      "lng": -64.186201,
       "image": "https://images.unsplash.com/photo-1559305616-3f99cd43e353?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 52,
@@ -753,13 +753,13 @@
       "neighborhood": "Wilde",
       "province": "Buenos Aires",
       "location": "Wilde, Buenos Aires",
-      "address": "Wilde, Buenos Aires",
-      "lat": -34.695886,
-      "lng": -58.324903,
+      "address": "Bragado 6180, Wilde",
+      "lat": -34.700893,
+      "lng": -58.314559,
       "image": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Wilde, Zona Sur.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 53,
@@ -767,14 +767,14 @@
       "neighborhood": "General Pico",
       "province": "La Pampa",
       "location": "General Pico, La Pampa",
-      "address": "General Pico, La Pampa",
-      "lat": -35.656286,
-      "lng": -63.749607,
+      "address": "Av. San Martín 688, General Pico",
+      "lat": -35.650399,
+      "lng": -63.768127,
       "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en General Pico, La Pampa.",
-      "geocodeSource": "centroid",
+      "geocodeSource": "verified",
       "instagram": "https://www.instagram.com/cafetinogeneralpico/",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 54,
@@ -788,7 +788,7 @@
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Jujuy.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 55,
@@ -845,7 +845,7 @@
       "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
       "description": "Refugio de café de especialidad en Neuquén.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 59,
@@ -853,27 +853,27 @@
       "neighborhood": "Olivos",
       "province": "Buenos Aires",
       "location": "Olivos, Buenos Aires",
-      "address": "Olivos, Buenos Aires",
-      "lat": -34.513748,
-      "lng": -58.487385,
+      "address": "José Manuel Estrada 2591, Olivos",
+      "lat": -34.507992,
+      "lng": -58.488677,
       "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Olivos.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 60,
       "name": "Paisa High Mountain Coffee",
-      "neighborhood": "Santa Cruz",
+      "neighborhood": "El Chaltén",
       "province": "Santa Cruz",
-      "location": "Santa Cruz",
-      "address": "Santa Cruz, Santa Cruz",
-      "lat": -50.330765,
-      "lng": -72.2684,
+      "location": "El Chaltén, Santa Cruz",
+      "address": "Ricardo Arbilla 86, El Chaltén",
+      "lat": -49.330487,
+      "lng": -72.889883,
       "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
       "description": "Café de altura patagónico, en Santa Cruz.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 61,
@@ -906,16 +906,16 @@
     {
       "rank": 63,
       "name": "Plantado Café",
-      "neighborhood": "CABA",
-      "province": "CABA",
-      "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.600004,
-      "lng": -58.380069,
+      "neighborhood": "Lomas de Zamora",
+      "province": "Buenos Aires",
+      "location": "Lomas de Zamora, Buenos Aires",
+      "address": "Gral. Carlos María de Alvear 897, Lomas de Zamora",
+      "lat": -34.749077,
+      "lng": -58.406084,
       "image": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 64,
@@ -923,13 +923,13 @@
       "neighborhood": "Santa Fe",
       "province": "Santa Fe",
       "location": "Santa Fe",
-      "address": "Santa Fe, Santa Fe",
-      "lat": -31.637811,
-      "lng": -60.698358,
+      "address": "Rivadavia 2563, Santa Fe",
+      "lat": -31.646545,
+      "lng": -60.704573,
       "image": "https://images.unsplash.com/photo-1559305616-3f99cd43e353?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Santa Fe capital.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 65,
@@ -965,13 +965,13 @@
       "neighborhood": "Santa Fe",
       "province": "Santa Fe",
       "location": "Santa Fe",
-      "address": "Santa Fe, Santa Fe",
-      "lat": -31.639372,
-      "lng": -60.703869,
+      "address": "Las Macluras 6627, Santa Fe",
+      "lat": -31.625521,
+      "lng": -60.596821,
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Santa Fe.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 68,
@@ -1032,16 +1032,16 @@
     {
       "rank": 72,
       "name": "Merci Coffee Dealer",
-      "neighborhood": "CABA",
-      "province": "CABA",
-      "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.6093,
-      "lng": -58.3816,
+      "neighborhood": "Miramar",
+      "province": "Buenos Aires",
+      "location": "Miramar, Buenos Aires",
+      "address": "Calle 21 1498, Miramar",
+      "lat": -38.268509,
+      "lng": -57.840584,
       "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
       "description": "Coffee dealer en Buenos Aires. Más tostadero que salón clásico.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 73,
@@ -1060,15 +1060,15 @@
     {
       "rank": 74,
       "name": "Mr. Coffee",
-      "neighborhood": "Córdoba",
+      "neighborhood": "Villa Carlos Paz",
       "province": "Córdoba",
-      "location": "Córdoba",
-      "address": "Mr. Coffee, 955, Belgrano, Camilo Aldao, Municipio de Camilo Aldao, Pedanía Liniers, Departamento Marcos Juárez, Córdoba, X2580, Argentina",
-      "lat": -33.128288,
-      "lng": -62.093664,
+      "location": "Villa Carlos Paz, Córdoba",
+      "address": "Las Heras 485, Villa Carlos Paz",
+      "lat": -31.422144,
+      "lng": -64.500284,
       "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba.",
-      "geocodeSource": "nominatim",
+      "geocodeSource": "verified",
       "precise": true
     },
     {
@@ -1083,7 +1083,7 @@
       "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Salta.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 76,
@@ -1091,13 +1091,13 @@
       "neighborhood": "Córdoba",
       "province": "Córdoba",
       "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.411434,
-      "lng": -64.187272,
+      "address": "Ayacucho 361, Córdoba",
+      "lat": -31.418737,
+      "lng": -64.191115,
       "image": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 77,
@@ -1105,13 +1105,13 @@
       "neighborhood": "Resistencia",
       "province": "Chaco",
       "location": "Resistencia, Chaco",
-      "address": "Resistencia, Chaco",
-      "lat": -27.454774,
-      "lng": -58.984551,
+      "address": "López y Planes 521, Resistencia",
+      "lat": -27.449247,
+      "lng": -58.979334,
       "image": "https://images.unsplash.com/photo-1559305616-3f99cd43e353?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Resistencia, Chaco.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 78,
@@ -1119,13 +1119,13 @@
       "neighborhood": "Mendoza",
       "province": "Mendoza",
       "location": "Mendoza",
-      "address": "Mendoza, Mendoza",
-      "lat": -32.888258,
-      "lng": -68.850436,
+      "address": "Nicolás Avellaneda 9, Mendoza",
+      "lat": -32.886426,
+      "lng": -68.849564,
       "image": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Mendoza.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 79,
@@ -1133,13 +1133,13 @@
       "neighborhood": "Rosario",
       "province": "Santa Fe",
       "location": "Rosario, Santa Fe",
-      "address": "Rosario, Santa Fe",
-      "lat": -32.941614,
-      "lng": -60.645533,
+      "address": "Av. Carballo 174, Rosario",
+      "lat": -32.922264,
+      "lng": -60.685221,
       "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Rosario.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 80,
@@ -1224,7 +1224,7 @@
       "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 86,
@@ -1274,13 +1274,13 @@
       "neighborhood": "Córdoba",
       "province": "Córdoba",
       "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.412108,
-      "lng": -64.189149,
+      "address": "Belgrano 867, Córdoba",
+      "lat": -31.424969,
+      "lng": -64.192408,
       "image": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Córdoba, con foco en orígenes.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 90,
@@ -1294,7 +1294,7 @@
       "image": "https://images.unsplash.com/photo-1559305616-3f99cd43e353?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Salta.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 91,
@@ -1302,13 +1302,13 @@
       "neighborhood": "San Juan",
       "province": "San Juan",
       "location": "San Juan",
-      "address": "San Juan, San Juan",
-      "lat": -31.537326,
-      "lng": -68.540396,
+      "address": "Del Bono entre Juana Manso y Cornelio Saavedra, San Juan",
+      "lat": -31.53324,
+      "lng": -68.563127,
       "image": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en San Juan.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 92,
@@ -1336,7 +1336,7 @@
       "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Santa Cruz.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 94,
@@ -1345,12 +1345,12 @@
       "province": "Santa Fe",
       "location": "Santa Fe",
       "address": "Santa Fe, Santa Fe",
-      "lat": -31.628057,
-      "lng": -60.703671,
+      "lat": -31.6333,
+      "lng": -60.7,
       "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Santa Fe.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 95,
@@ -1358,41 +1358,41 @@
       "neighborhood": "Mendoza",
       "province": "Mendoza",
       "location": "Mendoza",
-      "address": "Mendoza, Mendoza",
-      "lat": -32.891058,
-      "lng": -68.838771,
+      "address": "Paso de los Andes 1420, Mendoza",
+      "lat": -32.883235,
+      "lng": -68.858776,
       "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Mendoza.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 96,
       "name": "Garden Coffee",
-      "neighborhood": "Santa Fe",
+      "neighborhood": "Santo Tomé",
       "province": "Santa Fe",
-      "location": "Santa Fe",
-      "address": "Santa Fe, Santa Fe",
-      "lat": -31.6373,
-      "lng": -60.706928,
+      "location": "Santo Tomé, Santa Fe",
+      "address": "Paseo de las Acacias, Santo Tomé",
+      "lat": -31.629311,
+      "lng": -60.774791,
       "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?auto=format&fit=crop&w=800&q=80",
       "description": "Cafetería de especialidad en Santa Fe.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 97,
       "name": "Aste Café Con Pasión",
-      "neighborhood": "Córdoba",
+      "neighborhood": "Nueva Córdoba",
       "province": "Córdoba",
-      "location": "Córdoba",
-      "address": "Córdoba, Córdoba",
-      "lat": -31.411707,
-      "lng": -64.186154,
+      "location": "Nueva Córdoba, Córdoba",
+      "address": "Ituzaingó 904, Nueva Córdoba",
+      "lat": -31.427538,
+      "lng": -64.18598,
       "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Córdoba.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     },
     {
       "rank": 98,
@@ -1414,13 +1414,13 @@
       "neighborhood": "CABA",
       "province": "CABA",
       "location": "Buenos Aires",
-      "address": "CABA, CABA",
-      "lat": -34.601863,
-      "lng": -58.386035,
+      "address": "CABA",
+      "lat": -34.5875,
+      "lng": -58.425,
       "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Buenos Aires.",
       "geocodeSource": "centroid",
-      "precise": false
+      "precise": true
     },
     {
       "rank": 100,
@@ -1428,13 +1428,13 @@
       "neighborhood": "Mendoza",
       "province": "Mendoza",
       "location": "Mendoza",
-      "address": "Mendoza, Mendoza",
-      "lat": -32.887585,
-      "lng": -68.840538,
+      "address": "Prado Español, Parque General San Martín, Mendoza",
+      "lat": -32.896787,
+      "lng": -68.866509,
       "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?auto=format&fit=crop&w=800&q=80",
       "description": "Café de especialidad en Mendoza.",
-      "geocodeSource": "centroid",
-      "precise": false
+      "geocodeSource": "verified",
+      "precise": true
     }
   ]
 }

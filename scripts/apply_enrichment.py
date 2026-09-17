@@ -89,7 +89,12 @@ def apply() -> None:
     for cafe in payload["cafes"]:
         rank = int(cafe["rank"])
         cafe["location"] = nice_location(cafe)
-        cafe["precise"] = cafe.get("geocodeSource") in {"curated", "nominatim", "verified"} or bool(cafe.get("precise"))
+        cafe["precise"] = cafe.get("geocodeSource") in {
+            "curated",
+            "nominatim",
+            "verified",
+            "place-search",
+        } or bool(cafe.get("precise"))
         if rank in descriptions:
             cafe["description"] = descriptions[rank]
         if rank in instagram:
