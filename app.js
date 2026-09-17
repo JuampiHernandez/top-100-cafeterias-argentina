@@ -138,9 +138,18 @@ function escapeHtml(value) {
     .replace(/"/g, "&quot;");
 }
 
+function displayPlace(cafe) {
+  const address = (cafe.address || "").trim();
+  const location = (cafe.location || "").trim();
+  if (!address || /^CABA(?:,\s*CABA)?$/i.test(address)) {
+    return location || address;
+  }
+  return address;
+}
+
 function mapsUrl(cafe) {
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-    `${cafe.name} ${cafe.address || cafe.location} Argentina`
+    `${cafe.name} ${displayPlace(cafe)} Argentina`
   )}`;
 }
 
@@ -262,7 +271,7 @@ function openDetail(cafe) {
 
   document.getElementById("detail-rank").textContent = `#${cafe.rank}`;
   document.getElementById("detail-name").textContent = cafe.name;
-  document.getElementById("detail-loc").textContent = cafe.address || cafe.location;
+  document.getElementById("detail-loc").textContent = displayPlace(cafe);
   document.getElementById("detail-desc").textContent = cafe.description;
   document.getElementById("detail-maps").href = mapsUrl(cafe);
 
@@ -416,9 +425,10 @@ function renderMarkers({ fit = false } = {}) {
 
   if (fit && cafes.length) {
     const bounds = L.latLngBounds(cafes.map((c) => [c.lat, c.lng]));
-    map.fitBounds(bounds.pad(0.08), {
+    const tight = cafes.length <= 8;
+    map.fitBounds(bounds.pad(tight ? 0.22 : 0.08), {
       animate: true,
-      maxZoom: 12,
+      maxZoom: tight ? 15 : 12,
       ...detailPadding(),
     });
   }
