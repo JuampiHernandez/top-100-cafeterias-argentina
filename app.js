@@ -250,13 +250,8 @@ function detailPadding() {
 
 function ensureCafeVisible(cafe) {
   const latlng = L.latLng(cafe.lat, cafe.lng);
-  const { paddingTopLeft, paddingBottomRight } = detailPadding();
-  map.panInside(latlng, {
-    paddingTopLeft,
-    paddingBottomRight,
-    animate: true,
-    duration: 0.35,
-  });
+  const zoom = Math.max(map.getZoom(), 16);
+  map.flyTo(latlng, Math.min(zoom, 17), { duration: 0.55 });
 }
 
 function openDetail(cafe) {
@@ -417,11 +412,15 @@ function renderMarkers({ fit = false } = {}) {
   });
 
   if (fit && cafes.length) {
+    if (cafes.length === 1) {
+      map.flyTo([cafes[0].lat, cafes[0].lng], 16, { duration: 0.5 });
+      return;
+    }
     const bounds = L.latLngBounds(cafes.map((c) => [c.lat, c.lng]));
     const tight = cafes.length <= 8;
     map.fitBounds(bounds.pad(tight ? 0.22 : 0.08), {
       animate: true,
-      maxZoom: tight ? 15 : 12,
+      maxZoom: tight ? 16 : 12,
       ...detailPadding(),
     });
   }
